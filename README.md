@@ -7,6 +7,10 @@ This portfolio is a combination of notebooks I created for my data science proje
 
 Ranking list of American colleges was scraped from [College Factual](https://www.collegefactual.com/rankings/best-colleges/). Details about each college, such as academics, student diversity and tuition fees, are scraped as well. View and download the scraped college datasets from [here](https://github.com/chauvu/chauvu.github.io/tree/main/Data/college_factual). Script for web scraping is provided [here](https://github.com/chauvu/chauvu.github.io/blob/main/Notebooks/scrape_CollegeFactual.ipynb).
 
+** Scrape manuscripts from PubMed.com**
+
+Biomedical and life sciences references are scraped from [PubMed](https://pubmed.ncbi.nlm.nih.gov/). A total of *26000 references* were scraped from the [search results]('https://www.ncbi.nlm.nih.gov/pubmed?term=Study%5BText%20Word%5D') for the *'study'* text word. Each manuscript reference includes the unique identifier PubMed ID, title, list of co-authors, free status, keywords and abstracts. Here is the [dataset](https://github.com/chauvu/chauvu.github.io/tree/main/Data/pubmed) and [script](https://github.com/chauvu/chauvu.github.io/blob/main/Notebooks/scrape_PubMed.ipynb).
+
 ## Regression Analysis
 
 **Poverty Prediction with Census Data**
