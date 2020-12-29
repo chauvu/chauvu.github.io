@@ -1,0 +1,1721 @@
+Link,Name,Rank
+duke-university,Duke University,1
+massachusetts-institute-of-technology,Massachusetts Institute of Technology,2
+university-of-pennsylvania,University of Pennsylvania,3
+yale-university,Yale University,4
+harvard-university,Harvard University,5
+harvey-mudd-college,Harvey Mudd College,6
+stanford-university,Stanford University,7
+university-of-chicago,University of Chicago,8
+dartmouth-college,Dartmouth College,9
+northwestern-university,Northwestern University,10
+brown-university,Brown University,11
+cornell-university,Cornell University,12
+university-of-notre-dame,University of Notre Dame,13
+williams-college,Williams College,14
+rice-university,Rice University,15
+johns-hopkins-university,Johns Hopkins University,16
+pomona-college,Pomona College,17
+vanderbilt-university,Vanderbilt University,18
+washington-university-in-st-louis,Washington University in St Louis,19
+princeton-university,Princeton University,20
+hamilton-college,Hamilton College,21
+claremont-mckenna-college,Claremont McKenna College,22
+washington-and-lee-university,Washington and Lee University,23
+college-of-the-holy-cross,College of the Holy Cross,24
+bowdoin-college,Bowdoin College,25
+columbia-university-in-the-city-of-new-york,Columbia University in the City of New York,26
+emory-university,Emory University,27
+carnegie-mellon-university,Carnegie Mellon University,28
+amherst-college,Amherst College,29
+olin-college,Olin College,30
+california-institute-of-technology,California Institute of Technology,31
+bucknell-university,Bucknell University,32
+university-of-virginia-main-campus,University of Virginia - Main Campus,33
+colgate-university,Colgate University,34
+university-of-michigan-ann-arbor,University of Michigan - Ann Arbor,35
+babson-college,Babson College,36
+wake-forest-university,Wake Forest University,37
+swarthmore-college,Swarthmore College,38
+davidson-college,Davidson College,39
+university-of-southern-california,University of Southern California,40
+middlebury-college,Middlebury College,41
+georgetown-university,Georgetown University,42
+lehigh-university,Lehigh University,43
+wellesley-college,Wellesley College,44
+university-of-rochester,University of Rochester,45
+worcester-polytechnic-institute,Worcester Polytechnic Institute,46
+carleton-college,Carleton College,47
+lafayette-college,Lafayette College,48
+university-of-california-los-angeles,University of California - Los Angeles,49
+university-of-north-carolina-at-chapel-hill,University of North Carolina at Chapel Hill,50
+case-western-reserve-university,Case Western Reserve University,51
+tufts-university,Tufts University,52
+rose-hulman-institute-of-technology,Rose - Hulman Institute of Technology,53
+wesleyan-university,Wesleyan University,54
+union-college-new-york,Union College New York,55
+boston-university,Boston University,56
+rensselaer-polytechnic-institute,Rensselaer Polytechnic Institute,57
+boston-college,Boston College,58
+bentley-university,Bentley University,59
+university-of-richmond,University of Richmond,60
+college-of-william-and-mary,College of William and Mary,61
+st-louis-college-of-pharmacy,St Louis College of Pharmacy,62
+franklin-and-marshall-college,Franklin and Marshall College,63
+bates-college,Bates College,64
+university-of-california-berkeley,University of California - Berkeley,65
+university-of-miami,University of Miami,66
+haverford-college,Haverford College,67
+brandeis-university,Brandeis University,68
+georgia-institute-of-technology-main-campus,Georgia Institute of Technology - Main Campus,69
+vassar-college,Vassar College,70
+villanova-university,Villanova University,71
+university-of-california-san-diego,University of California - San Diego,72
+university-of-florida,University of Florida,73
+university-of-california-davis,University of California - Davis,74
+santa-clara-university,Santa Clara University,75
+scripps-college,Scripps College,76
+northeastern-university,Northeastern University,77
+the-university-of-texas-at-austin,The University of Texas at Austin,78
+virginia-polytechnic-institute-and-state-university,Virginia Tech,79
+university-of-wisconsin-madison,University of Wisconsin - Madison,80
+university-of-california-irvine,University of California - Irvine,81
+depauw-university,DePauw University,82
+colby-college,Colby College,83
+university-of-washington-seattle-campus,University of Washington - Seattle Campus,84
+university-of-illinois-at-urbana-champaign,University of Illinois at Urbana - Champaign,85
+colorado-school-of-mines,Colorado School of Mines,86
+southern-methodist-university,Southern Methodist University,87
+dickinson-college,Dickinson College,88
+texas-a-and-m-university-college-station,Texas A&M University - College Station,89
+trinity-college,Trinity College,90
+gettysburg-college,Gettysburg College,91
+university-of-delaware,University of Delaware,92
+kenyon-college,Kenyon College,93
+tulane-university-of-louisiana,Tulane University of Louisiana,94
+bryn-mawr-college,Bryn Mawr College,95
+creighton-university,Creighton University,96
+university-of-connecticut,University of Connecticut,97
+skidmore-college,Skidmore College,98
+grinnell-college,Grinnell College,99
+purdue-university-main-campus,Purdue University - Main Campus,100
+st-lawrence-university,St Lawrence University,101
+brigham-young-university-provo,Brigham Young University - Provo,102
+university-of-maryland-college-park,University of Maryland - College Park,103
+barnard-college,Barnard College,104
+george-washington-university,George Washington University,105
+elon-university,Elon University,106
+syracuse-university,Syracuse University,107
+clemson-university,Clemson University,108
+saint-louis-university-main-campus,Saint Louis University,109
+albany-college-of-pharmacy-and-health-sciences,Albany College of Pharmacy and Health Sciences,110
+united-states-merchant-marine-academy,United States Merchant Marine Academy,111
+hobart-william-smith-colleges,Hobart and William Smith Colleges,112
+gonzaga-university,Gonzaga University,113
+whitman-college,Whitman College,114
+texas-christian-university,Texas Christian University,115
+wheaton-college-illinois,Wheaton College Illinois,116
+illinois-institute-of-technology,Illinois Institute of Technology,117
+trinity-university,Trinity University,118
+rhodes-college,Rhodes College,119
+michigan-state-university,Michigan State University,120
+north-carolina-state-university-at-raleigh,North Carolina State University,121
+pepperdine-university,Pepperdine University,122
+denison-university,Denison University,123
+university-of-pittsburgh-pittsburgh-campus,University of Pittsburgh - Pittsburgh Campus,124
+university-of-california-santa-barbara,University of California - Santa Barbara,125
+st-olaf-college,St Olaf College,126
+occidental-college,Occidental College,127
+illinois-wesleyan-university,Illinois Wesleyan University,128
+new-york-university,New York University,129
+butler-university,Butler University,130
+providence-college,Providence College,131
+university-of-minnesota-twin-cities,University of Minnesota - Twin Cities,132
+suny-at-binghamton,Binghamton University,133
+drake-university,Drake University,134
+clarkson-university,Clarkson University,135
+connecticut-college,Connecticut College,136
+university-of-georgia,University of Georgia,137
+macalester-college,Macalester College,138
+colorado-college,Colorado College,139
+university-of-san-diego,University of San Diego,140
+loyola-marymount-university,Loyola Marymount University,141
+saint-anselm-college,Saint Anselm College,142
+furman-university,Furman University,143
+smith-college,Smith College,144
+university-of-denver,University of Denver,145
+kalamazoo-college,Kalamazoo College,146
+fairfield-university,Fairfield University,147
+university-of-the-pacific,University of the Pacific,148
+wofford-college,Wofford College,149
+mount-holyoke-college,Mount Holyoke College,150
+rutgers-university-new-brunswick,Rutgers University - New Brunswick,151
+california-polytechnic-state-university-san-luis-obispo,California Polytechnic State University - San Luis Obispo,152
+gustavus-adolphus-college,Gustavus Adolphus College,153
+rhode-island-school-of-design,Rhode Island School of Design,154
+university-at-buffalo,University at Buffalo,155
+university-of-the-sciences,University of the Sciences,156
+university-of-puget-sound,University of Puget Sound,157
+ohio-northern-university,Ohio Northern University,158
+the-college-of-new-jersey,The College of New Jersey,159
+marquette-university,Marquette University,160
+american-university,American University,161
+duquesne-university,Duquesne University,162
+muhlenberg-college,Muhlenberg College,163
+university-of-dayton,University of Dayton,164
+rochester-institute-of-technology,Rochester Institute of Technology,165
+university-of-iowa,University of Iowa,166
+university-of-massachusetts-amherst,University of Massachusetts Amherst,167
+yeshiva-university,Yeshiva University,168
+loyola-university-baltimore,Loyola University Maryland,169
+pennsylvania-state-university-main-campus,Pennsylvania State University - University Park,170
+drexel-university,Drexel University,171
+baylor-university,Baylor University,172
+university-of-st-thomas-minnesota,University of St Thomas Minnesota,173
+seattle-university,Seattle University,174
+university-of-portland,University of Portland,175
+samford-university,Samford University,176
+university-of-scranton,University of Scranton,177
+massachusetts-college-of-pharmacy-and-health-sciences,Massachusetts College of Pharmacy and Health Sciences,178
+stevens-institute-of-technology,Stevens Institute of Technology,179
+university-of-utah,University of Utah,180
+indiana-university-bloomington,Indiana University - Bloomington,181
+college-of-saint-benedict,College of Saint Benedict,182
+saint-johns-university,Saint Johns University,183
+centre-college,Centre College,184
+virginia-military-institute,Virginia Military Institute,185
+james-madison-university,James Madison University,186
+reed-college,Reed College,187
+pitzer-college,Pitzer College,188
+bryant-university,Bryant University,189
+stonehill-college,Stonehill College,190
+university-of-san-francisco,University of San Francisco,191
+university-of-tulsa,University of Tulsa,192
+southwestern-university,Southwestern University,193
+quinnipiac-university,Quinnipiac University,194
+auburn-university,Auburn University,195
+saint-josephs-university,Saint Joseph's University,196
+michigan-technological-university,Michigan Technological University,197
+stony-brook-university,Stony Brook University,198
+elizabethtown-college,Elizabethtown College,199
+bradley-university,Bradley University,200
+sewanee-the-university-of-the-south,Sewanee - The University of the South,201
+saint-marys-college,Saint Mary's College,202
+wabash-college,Wabash College,203
+university-of-south-carolina-columbia,University of South Carolina - Columbia,204
+washington-and-jefferson-college,Washington & Jefferson College,205
+ohio-state-university-main-campus,Ohio State University - Main Campus,206
+chapman-university,Chapman University,207
+university-of-new-hampshire-main-campus,University of New Hampshire - Main Campus,208
+missouri-university-of-science-and-technology,Missouri University of Science and Technology,209
+oberlin-college,Oberlin College,210
+university-of-oklahoma-norman-campus,University of Oklahoma Norman Campus,211
+marist-college,Marist College,212
+ithaca-college,Ithaca College,213
+university-of-california-riverside,University of California - Riverside,214
+loyola-university-chicago,Loyola University Chicago,215
+university-of-vermont,University of Vermont,216
+willamette-university,Willamette University,217
+siena-college,Siena College,218
+allegheny-college,Allegheny College,219
+florida-state-university,Florida State University,220
+clark-university,Clark University,221
+juniata-college,Juniata College,222
+wheaton-college-massachusetts,Wheaton College Massachusetts,223
+massachusetts-maritime-academy,Massachusetts Maritime Academy,224
+fordham-university,Fordham University,225
+kettering-university,Kettering University,226
+ursinus-college,Ursinus College,227
+milwaukee-school-of-engineering,Milwaukee School of Engineering,228
+hope-college,Hope College,229
+george-mason-university,George Mason University,230
+luther-college,Luther College,231
+washington-college,Washington College,232
+catholic-university-of-america,Catholic University of America,233
+citadel-military-college-of-south-carolina,Citadel Military College of South Carolina,234
+iowa-state-university,Iowa State University,235
+the-university-of-tennessee,The University of Tennessee - Knoxville,236
+new-jersey-institute-of-technology,New Jersey Institute of Technology,237
+soka-university-of-america,Soka University of America,238
+the-university-of-texas-at-dallas,The University of Texas at Dallas,239
+lawrence-university,Lawrence University,240
+hampden-sydney-college,Hampden - Sydney College,241
+molloy-college,Molloy College,242
+augustana-college-illinois,Augustana College,243
+university-of-redlands,University of Redlands,244
+university-of-colorado-boulder,University of Colorado Boulder,245
+saint-marys-college-of-california,Saint Mary's College of California,246
+maine-maritime-academy,Maine Maritime Academy,247
+linfield-college,Linfield College - McMinnville Campus,248
+saint-john-fisher-college,St. John Fisher College,249
+bellin-college,Bellin College,250
+beloit-college,Beloit College,251
+rutgers-university-newark,Rutgers University - Newark,252
+messiah-college,Messiah College,253
+cooper-union-for-the-advancement-of-science-and-art,Cooper Union for the Advancement of Science and Art,254
+university-of-kansas,University of Kansas,255
+rollins-college,Rollins College,256
+simmons-college,Simmons College,257
+louisiana-state-university-and-agricultural-and-mechanical-college,Louisiana State University and Agricultural & Mechanical College,258
+university-of-california-santa-cruz,University of California - Santa Cruz,259
+depaul-university,DePaul University,260
+st-marys-college-of-maryland,St Mary's College of Maryland,261
+university-of-oregon,University of Oregon,262
+temple-university,Temple University,263
+university-of-missouri-columbia,University of Missouri - Columbia,264
+university-of-illinois-at-chicago,University of Illinois at Chicago,265
+westmont-college,Westmont College,266
+suny-at-geneseo,SUNY Geneseo,267
+lewis-and-clark-college,Lewis & Clark College,268
+john-carroll-university,John Carroll University,269
+suny-college-of-environmental-science-and-forestry,SUNY College of Environmental Science and Forestry,270
+miami-university-oxford,Miami University - Oxford,271
+the-college-of-wooster,The College of Wooster,272
+calvin-college,Calvin College,273
+manhattan-college,Manhattan College,274
+dominican-university-of-california,Dominican University of California,275
+university-of-nebraska-lincoln,University of Nebraska - Lincoln,276
+embry-riddle-aeronautical-university-daytona-beach,Embry Riddle Aeronautical University - Daytona Beach,277
+susquehanna-university,Susquehanna University,278
+lake-forest-college,Lake Forest College,279
+adelphi-university,Adelphi University,280
+le-moyne-college,Le Moyne College,281
+southern-california-institute-of-architecture,Southern California Institute of Architecture,282
+bryan-college-of-health-sciences,Bryan College of Health Sciences,283
+hofstra-university,Hofstra University,284
+saint-norbert-college,Saint Norbert College,285
+university-of-kentucky,University of Kentucky,286
+seton-hall-university,Seton Hall University,287
+embry-riddle-aeronautical-university-prescott,Embry Riddle Aeronautical University - Prescott,288
+university-of-detroit-mercy,University of Detroit Mercy,289
+washington-state-university,Washington State University,290
+saint-michaels-college,Saint Michael's College,291
+presbyterian-college,Presbyterian College,292
+american-university-of-health-sciences,American University of Health Sciences,293
+xavier-university,Xavier University,294
+emerson-college,Emerson College,295
+rutgers-university-camden,Rutgers University - Camden,296
+thomas-aquinas-college,Thomas Aquinas College,297
+concordia-college-at-moorhead,Concordia College at Moorhead,298
+oregon-state-university,Oregon State University,299
+california-maritime-academy,California State University Maritime Academy,300
+university-of-south-florida-main-campus,University of South Florida - Main Campus,301
+university-of-maryland-baltimore-county,University of Maryland - Baltimore County,302
+mercer-university,Mercer University,303
+assumption-college,Assumption College,304
+illinois-state-university,Illinois State University,305
+cuny-bernard-m-baruch-college,CUNY Bernard M Baruch College,306
+colorado-state-university-fort-collins,Colorado State University - Fort Collins,307
+valparaiso-university,Valparaiso University,308
+university-of-st-thomas-texas,University of St. Thomas,309
+suny-at-albany,University at Albany,310
+spelman-college,Spelman College,311
+arizona-state-university,Arizona State University - Tempe,312
+lebanon-valley-college,Lebanon Valley College,313
+university-of-evansville,University of Evansville,314
+baptist-memorial-college-of-health-sciences,Baptist Memorial College of Health Sciences,315
+bethel-university-minnesota,Bethel University Minnesota,316
+pacific-lutheran-university,Pacific Lutheran University,317
+the-university-of-alabama,The University of Alabama,318
+university-of-massachusetts-lowell,University of Massachusetts - Lowell,319
+point-loma-nazarene-university,Point Loma Nazarene University,320
+california-lutheran-university,California Lutheran University,321
+ramapo-college-of-new-jersey,Ramapo College of New Jersey,322
+chamberlain-college-of-nursing-texas,Chamberlain University - Texas,323
+suny-maritime-college,SUNY Maritime College,324
+university-of-arizona,University of Arizona,325
+university-of-dallas,University of Dallas,326
+augustana-college-south-dakota,Augustana University,327
+roger-williams-university,Roger Williams University,328
+university-of-washington-bothell-campus,University of Washington - Bothell Campus,329
+union-university,Union University,330
+hanover-college,Hanover College,331
+university-of-houston,University of Houston,332
+westminster-college-utah,Westminster College Utah,333
+christopher-newport-university,Christopher Newport University,334
+gannon-university,Gannon University,335
+mills-college,Mills College,336
+university-of-north-dakota,University of North Dakota,337
+transylvania-university,Transylvania University,338
+university-of-wyoming,University of Wyoming,339
+bard-college,Bard College,340
+roanoke-college,Roanoke College,341
+st-johns-college-maryland,St John's College,342
+san-diego-state-university,San Diego State University,343
+western-new-england-university,Western New England University,344
+truman-state-university,Truman State University,345
+biola-university,Biola University,346
+seattle-pacific-university,Seattle Pacific University,347
+nebraska-methodist-college-of-nursing-and-allied-health,Nebraska Methodist College of Nursing & Allied Health,348
+regis-university,Regis University,349
+misericordia-university,Misericordia University,350
+clarkson-college,Clarkson College,351
+knox-college,Knox College,352
+kansas-state-university,Kansas State University,353
+belmont-university,Belmont University,354
+coe-college,Coe College,355
+whitworth-university,Whitworth University,356
+john-brown-university,John Brown University,357
+wentworth-institute-of-technology,Wentworth Institute of Technology,358
+south-dakota-school-of-mines-and-technology,South Dakota School of Mines and Technology,359
+trinity-college-of-nursing-and-health-sciences,Trinity College of Nursing & Health Sciences,360
+the-juilliard-school,The Juilliard School,361
+cedarville-university,Cedarville University,362
+covenant-college,Covenant College,363
+salve-regina-university,Salve Regina University,364
+university-of-colorado-denver,University of Colorado Denver/Anschutz Medical Campus,365
+sacred-heart-university,Sacred Heart University,366
+rockhurst-university,Rockhurst University,367
+saint-vincent-college,Saint Vincent College,368
+millsaps-college,Millsaps College,369
+north-dakota-state-university-main-campus,North Dakota State University - Main Campus,370
+university-of-central-florida,University of Central Florida,371
+university-of-california-merced,University of California - Merced,372
+west-chester-university-of-pennsylvania,West Chester University of Pennsylvania,373
+western-washington-university,Western Washington University,374
+cornell-college,Cornell College,375
+carroll-college,Carroll College,376
+ohio-wesleyan-university,Ohio Wesleyan University,377
+university-of-mississippi-main-campus,University of Mississippi,378
+university-of-cincinnati-main-campus,University of Cincinnati - Main Campus,379
+suny-institute-of-technology-at-utica-rome,SUNY Polytechnic Institute,380
+university-of-northern-iowa,University of Northern Iowa,381
+nova-southeastern-university,Nova Southeastern University,382
+university-of-wisconsin-la-crosse,University of Wisconsin - La Crosse,383
+saint-francis-university,Saint Francis University,384
+art-center-college-of-design,Art Center College of Design,385
+hendrix-college,Hendrix College,386
+randolph-macon-college,Randolph - Macon College,387
+drew-university,Drew University,388
+howard-university,Howard University,389
+george-fox-university,George Fox University,390
+the-college-of-saint-scholastica,The College of Saint Scholastica,391
+university-of-rhode-island,University of Rhode Island,392
+university-of-arkansas,University of Arkansas,393
+agnes-scott-college,Agnes Scott College,394
+salisbury-university,Salisbury University,395
+university-of-mary-washington,University of Mary Washington,396
+moravian-college-and-moravian-theological-seminary,Moravian College,397
+st-johns-university-new-york,St John's University - New York,398
+university-of-north-carolina-school-of-the-arts,University of North Carolina School of the Arts,399
+pennsylvania-state-university-penn-state-erie-behrend-college,Pennsylvania State University - Erie - Behrend College,400
+ringling-college-of-art-and-design,Ringling College of Art and Design,401
+virginia-commonwealth-university,Virginia Commonwealth University,402
+arizona-state-university-west,Arizona State University - West,403
+rowan-university,Rowan University,404
+digipen-institute-of-technology,DigiPen Institute of Technology,405
+texas-tech-university,Texas Tech University,406
+north-central-college,North Central College,407
+florida-institute-of-technology,Florida Institute of Technology,408
+shenandoah-university,Shenandoah University,409
+university-of-minnesota-rochester,University of Minnesota - Rochester,410
+austin-college,Austin College,411
+saint-edwards-university,Saint Edward's University,412
+central-college,Central College,413
+taylor-university,Taylor University,414
+eckerd-college,Eckerd College,415
+university-of-north-carolina-at-wilmington,University of North Carolina at Wilmington,416
+pacific-university,Pacific University,417
+mount-carmel-college-of-nursing,Mount Carmel College of Nursing,418
+canisius-college,Canisius College,419
+oklahoma-state-university-main-campus,Oklahoma State University - Main Campus,420
+franciscan-university-of-steubenville,Franciscan University of Steubenville,421
+whittier-college,Whittier College,422
+university-of-nevada-reno,University of Nevada - Reno,423
+stetson-university,Stetson University,424
+oklahoma-city-university,Oklahoma City University,425
+rider-university,Rider University,426
+lewis-university,Lewis University,427
+azusa-pacific-university,Azusa Pacific University,428
+suffolk-university,Suffolk University,429
+merrimack-college,Merrimack College,430
+college-of-charleston,College of Charleston,431
+university-of-michigan-dearborn,University of Michigan - Dearborn,432
+albion-college,Albion College,433
+university-of-alabama-at-birmingham,University of Alabama at Birmingham,434
+university-of-washington-tacoma-campus,University of Washington - Tacoma Campus,435
+university-of-hawaii-at-manoa,University of Hawaii at Manoa,436
+goucher-college,Goucher College,437
+wagner-college,Wagner College,438
+hamline-university,Hamline University,439
+nazareth-college,Nazareth College,440
+fashion-institute-of-technology,Fashion Institute of Technology,441
+simpson-college,Simpson College,442
+walla-walla-university,Walla Walla University,443
+appalachian-state-university,Appalachian State University,444
+desales-university,DeSales University,445
+maryville-university-of-saint-louis,Maryville University of Saint Louis,446
+the-new-england-conservatory-of-music,The New England Conservatory of Music,447
+university-of-wisconsin-eau-claire,University of Wisconsin - Eau Claire,448
+endicott-college,Endicott College,449
+state-university-of-new-york-at-new-paltz,SUNY New Paltz,450
+california-state-polytechnic-university-pomona,California State Polytechnic University - Pomona,451
+kettering-college,Kettering College,452
+ripon-college,Ripon College,453
+saint-bonaventure-university,St. Bonaventure University,454
+saint-joseph-college,University of Saint Joseph,455
+baldwin-wallace-college,Baldwin Wallace University,456
+suny-college-at-oneonta,SUNY Oneonta,457
+university-of-minnesota-duluth,University of Minnesota - Duluth,458
+st-catherine-university,St Catherine University,459
+philadelphia-university,Thomas Jefferson University,460
+new-mexico-institute-of-mining-and-technology,New Mexico Institute of Mining and Technology,461
+sarah-lawrence-college,Sarah Lawrence College,462
+wilkes-university,Wilkes University,463
+robert-morris-university,Robert Morris University,464
+lipscomb-university,Lipscomb University,465
+harding-university,Harding University,466
+new-york-institute-of-technology,New York Institute of Technology,467
+westminster-college-pa,Westminster College Pennsylvania,468
+monmouth-university,Monmouth University,469
+springfield-college,Springfield College,470
+pratt-institute-main,Pratt Institute - Main,471
+marietta-college,Marietta College,472
+arizona-state-university-downtown-phoenix,Arizona State University - Downtown Phoenix,473
+good-samaritan-college-of-nursing-and-health-science,Good Samaritan College of Nursing & Health Science,474
+bellarmine-university,Bellarmine University,475
+california-state-university-long-beach,California State University - Long Beach,476
+milligan-college,Milligan College,477
+berry-college,Berry College,478
+towson-university,Towson University,479
+mercy-college-of-ohio,Mercy College of Ohio,480
+the-university-of-findlay,The University of Findlay,481
+kings-college,King's College,482
+pennsylvania-state-university-penn-state-harrisburg,Pennsylvania State University - Harrisburg,483
+suny-college-at-cortland,SUNY Cortland,484
+university-of-louisville,University of Louisville,485
+university-of-hartford,University of Hartford,486
+st-marys-university,St. Mary's University,487
+lancaster-general-college-of-nursing-and-health-sciences,Pennsylvania College of Health Sciences,488
+california-institute-of-the-arts,California Institute of the Arts,489
+pennsylvania-state-university-penn-state-altoona,Pennsylvania State University - Altoona,490
+university-of-houston-clear-lake,University of Houston - Clear Lake,491
+san-jose-state-university,San Jose State University,492
+university-of-new-haven,University of New Haven,493
+lawrence-technological-university,Lawrence Technological University,494
+la-salle-university,La Salle University,495
+saint-ambrose-university,Saint Ambrose University,496
+florida-international-university,Florida International University,497
+neumont-university,Neumont College of Computer Science,498
+university-of-la-verne,University of La Verne,499
+pace-university-new-york,Pace University - New York,500
+california-state-university-chico,California State University - Chico,501
+gordon-college,Gordon College,502
+loyola-university-new-orleans,Loyola University New Orleans,503
+indiana-wesleyan-university,Indiana Wesleyan University,504
+alma-college,Alma College,505
+william-jewell-college,William Jewell College,506
+the-richard-stockton-college-of-new-jersey,Stockton University,507
+university-of-new-england,University of New England,508
+widener-university-main-campus,Widener University,509
+the-new-school,The New School,510
+lycoming-college,Lycoming College,511
+the-university-of-tampa,The University of Tampa,512
+birmingham-southern-college,Birmingham Southern College,513
+abilene-christian-university,Abilene Christian University,514
+east-carolina-university,East Carolina University,515
+west-coast-university-los-angeles,West Coast University - Los Angeles,516
+earlham-college,Earlham College,517
+pennsylvania-state-university-penn-state-hazleton,Pennsylvania State University - Hazleton,518
+university-of-missouri-kansas-city,University of Missouri - Kansas City,519
+emmanuel-college-massachusetts,Emmanuel College Massachusetts,520
+mount-st-marys-university,Mount St Mary's University,521
+grand-valley-state-university,Grand Valley State University,522
+university-of-massachusetts-boston,University of Massachusetts - Boston,523
+roberts-wesleyan-college,Roberts Wesleyan College,524
+letourneau-university,LeTourneau University,525
+university-of-north-carolina-at-charlotte,University of North Carolina at Charlotte,526
+cabarrus-college-of-health-sciences,Cabarrus College of Health Sciences,527
+dordt-college,Dordt College,528
+pennsylvania-state-university-penn-state-wilkes-barre,Pennsylvania State University - Wilkes - Barre,529
+otterbein-university,Otterbein University,530
+university-of-st-francis,University of St Francis,531
+houghton-college,Houghton College,532
+chatham-university,Chatham University,533
+mount-st-marys-college,Mount Saint Mary's University,534
+arizona-state-university-polytechnic,Arizona State University - Polytechnic,535
+university-of-illinois-at-springfield,University of Illinois at Springfield,536
+st-johns-college-new-mexico,St. John's College,537
+dyouville-college,D'Youville College,538
+wartburg-college,Wartburg College,539
+university-of-south-florida-sarasota-manatee,University of South Florida Sarasota - Manatee,540
+bennington-college,Bennington College,541
+georgia-college-and-state-university,Georgia College & State University,542
+nebraska-wesleyan-university,Nebraska Wesleyan University,543
+chamberlain-college-of-nursing-virginia,Chamberlain University - Virginia,544
+goshen-college,Goshen College,545
+dominican-university,Dominican University,546
+winona-state-university,Winona State University,547
+university-of-new-hampshire-at-manchester,University of New Hampshire at Manchester,548
+trinity-christian-college,Trinity Christian College,549
+west-coast-university-orange-county,West Coast University - Orange County,550
+iona-college,Iona College,551
+culinary-institute-of-america,Culinary Institute of America,552
+augsburg-college,Augsburg University,553
+university-of-idaho,University of Idaho,554
+oregon-institute-of-technology,Oregon Institute of Technology,555
+methodist-college,Methodist College,556
+university-of-alabama-at-huntsville,University of Alabama in Huntsville,557
+sweet-briar-college,Sweet Briar College,558
+maryland-institute-college-of-art,Maryland Institute College of Art,559
+new-york-school-of-interior-design,New York School of Interior Design,560
+west-virginia-university,West Virginia University,561
+edgewood-college,Edgewood College,562
+university-of-minnesota-morris,University of Minnesota - Morris,563
+champlain-college,Champlain College,564
+pennsylvania-state-university-penn-state-dubois,Pennsylvania State University - Dubois,565
+doane-college-crete,Doane University,566
+mcdaniel-college,McDaniel College,567
+south-dakota-state-university,South Dakota State University,568
+suny-college-at-oswego,SUNY Oswego,569
+york-college-pennsylvania,York College of Pennsylvania,570
+high-point-university,High Point University,571
+waynesburg-university,Waynesburg University,572
+niagara-university,Niagara University,573
+elmhurst-college,Elmhurst College,574
+suny-college-at-plattsburgh,SUNY Plattsburgh,575
+longwood-university,Longwood University,576
+dallas-baptist-university,Dallas Baptist University,577
+ball-state-university,Ball State University,578
+slippery-rock-university-of-pennsylvania,Slippery Rock University of Pennsylvania,579
+fairleigh-dickinson-university-college-at-florham,Fairleigh Dickinson University - Florham Campus,580
+illinois-college,Illinois College,581
+andrews-university,Andrews University,582
+lynchburg-college,University of Lynchburg,583
+wisconsin-lutheran-college,Wisconsin Lutheran College,584
+clarke-university,Clarke University,585
+university-of-north-florida,University of North Florida,586
+montclair-state-university,Montclair State University,587
+florida-southern-college,Florida Southern College,588
+pennsylvania-state-university-penn-state-york,Pennsylvania State University - York,589
+cleveland-institute-of-music,Cleveland Institute of Music,590
+college-for-creative-studies,College for Creative Studies,591
+xavier-university-of-louisiana,Xavier University of Louisiana,592
+college-of-the-atlantic,College of the Atlantic,593
+massachusetts-college-of-art-and-design,Massachusetts College of Art and Design,594
+jacksonville-university,Jacksonville University,595
+hampshire-college,Hampshire College,596
+savannah-college-of-art-and-design,Savannah College of Art and Design,597
+ohio-university-main-campus,Ohio University - Main Campus,598
+eastern-mennonite-university,Eastern Mennonite University,599
+webster-university,Webster University,600
+wayne-state-university,Wayne State University,601
+wittenberg-university,Wittenberg University,602
+pennsylvania-state-university-penn-state-berks,Pennsylvania State University - Berks,603
+queens-university-of-charlotte,Queens University of Charlotte,604
+centenary-college-of-louisiana,Centenary College of Louisiana,605
+ouachita-baptist-university,Ouachita Baptist University,606
+norwich-university,Norwich University,607
+capital-university,Capital University,608
+san-francisco-conservatory-of-music,San Francisco Conservatory of Music,609
+cuny-queens-college,CUNY Queens College,610
+suny-college-at-brockport,The College at Brockport,611
+loras-college,Loras College,612
+marymount-university,Marymount University,613
+carroll-university,Carroll University,614
+westfield-state-university,Westfield State University,615
+marywood-university,Marywood University,616
+california-state-university-fullerton,California State University - Fullerton,617
+cuny-hunter-college,CUNY Hunter College,618
+california-college-of-the-arts,California College of the Arts,619
+arcadia-university,Arcadia University,620
+university-of-pittsburgh-johnstown,University of Pittsburgh - Johnstown,621
+california-baptist-university,California Baptist University,622
+university-of-nebraska-at-kearney,University of Nebraska at Kearney,623
+daemen-college,Daemen College,624
+augusta-university,Augusta University,625
+university-of-mary,University of Mary,626
+hartwick-college,Hartwick College,627
+central-michigan-university,Central Michigan University,628
+mercyhurst-college,Mercyhurst University,629
+long-island-university-c-w-post-campus,LIU Post,630
+texas-state-university-san-marcos,Texas State University,631
+the-college-of-idaho,The College of Idaho,632
+university-of-pittsburgh-bradford,University of Pittsburgh - Bradford,633
+indiana-university-purdue-university-indianapolis,Indiana University - Purdue University - Indianapolis,634
+suny-at-fredonia,SUNY Fredonia,635
+ranken-technical-college,Ranken Technical College,636
+southern-illinois-university-edwardsville,Southern Illinois University Edwardsville,637
+california-state-university-channel-islands,California State University - Channel Islands,638
+pennsylvania-state-university-penn-state-new-kensington,Pennsylvania State University - New Kensington,639
+mississippi-state-university,Mississippi State University,640
+university-of-massachusetts-dartmouth,University of Massachusetts - Dartmouth,641
+carthage-college,Carthage College,642
+northwestern-college-iowa,Northwestern College,643
+bloomsburg-university-of-pennsylvania,Bloomsburg University of Pennsylvania,644
+college-of-notre-dame-of-maryland,Notre Dame of Maryland University,645
+pacific-union-college,Pacific Union College,646
+berea-college,Berea College,647
+school-of-visual-arts,School of Visual Arts,648
+dunwoody-college-of-technology,Dunwoody College of Technology,649
+saint-martins-university,Saint Martin's University,650
+western-michigan-university,Western Michigan University,651
+eastern-illinois-university,Eastern Illinois University,652
+meredith-college,Meredith College,653
+school-of-the-art-institute-of-chicago,School of the Art Institute of Chicago,654
+university-of-mount-union,University of Mount Union,655
+jefferson-college-of-health-sciences,Jefferson College of Health Sciences,656
+worcester-state-university,Worcester State University,657
+mount-saint-mary-college,Mount Saint Mary College,658
+university-of-south-dakota,University of South Dakota,659
+saint-josephs-college-new-york,St. Joseph's College - New York,660
+the-sage-colleges,The Sage Colleges,661
+campbell-university,Campbell University,662
+bard-college-at-simons-rock,Bard College at Simon's Rock,663
+marian-university-indiana,Marian University,664
+pennsylvania-state-university-penn-state-beaver,Pennsylvania State University - Beaver,665
+university-of-missouri-st-louis,University of Missouri - St Louis,666
+cuny-city-college,CUNY City College,667
+franklin-college,Franklin College,668
+the-college-of-saint-rose,The College of Saint Rose,669
+university-of-maine,University of Maine,670
+university-of-north-texas,University of North Texas,671
+hood-college,Hood College,672
+manhattan-school-of-music,Manhattan School of Music,673
+west-coast-university-ontario,West Coast University - Ontario,674
+university-of-wisconsin-platteville,University of Wisconsin - Platteville,675
+utah-state-university,Utah State University,676
+randolph-college,Randolph College,677
+stevenson-university,Stevenson University,678
+fitchburg-state-university,Fitchburg State University,679
+cuny-brooklyn-college,CUNY Brooklyn College,680
+martin-luther-college,Martin Luther College,681
+new-college-of-florida,New College of Florida,682
+farmingdale-state-college,Farmingdale State College,683
+college-of-our-lady-of-the-elms,College of Our Lady of the Elms,684
+mount-vernon-nazarene-university,Mount Vernon Nazarene University,685
+tennessee-technological-university,Tennessee Technological University,686
+benedictine-college,Benedictine College,687
+cottey-college,Cottey College,688
+pennsylvania-state-university-penn-state-greater-allegheny,Pennsylvania State University - Greater Allegheny,689
+pennsylvania-state-university-penn-state-lehigh-valley,Pennsylvania State University - Lehigh Valley,690
+mount-mercy-university,Mount Mercy University,691
+central-connecticut-state-university,Central Connecticut State University,692
+walsh-university,Walsh University,693
+san-francisco-state-university,San Francisco State University,694
+westminster-college-missouri,Westminster College Missouri,695
+ursuline-college,Ursuline College,696
+old-dominion-university,Old Dominion University,697
+chamberlain-college-of-nursing-arizona,Chamberlain University - Arizona,698
+aultman-college-of-nursing-and-health-sciences,Aultman College of Nursing and Health Sciences,699
+hollins-university,Hollins University,700
+otis-college-of-art-and-design,Otis College of Art and Design,701
+montana-state-university,Montana State University,702
+concordia-university-wisconsin,Concordia University - Wisconsin,703
+minneapolis-college-of-art-and-design,Minneapolis College of Art and Design,704
+northwest-university,Northwest University,705
+cleveland-institute-of-art,Cleveland Institute of Art,706
+millersville-university-of-pennsylvania,Millersville University of Pennsylvania,707
+pennsylvania-state-university-penn-state-mont-alto,Pennsylvania State University - Mont Alto,708
+northern-illinois-university,Northern Illinois University,709
+keene-state-college,Keene State College,710
+pennsylvania-college-of-technology,Pennsylvania College of Technology,711
+baker-university,Baker University,712
+college-of-saint-mary,College of Saint Mary,713
+california-state-university-san-marcos,California State University - San Marcos,714
+university-of-the-incarnate-word,University of the Incarnate Word,715
+bethany-lutheran-college,Bethany Lutheran College,716
+university-of-north-carolina-at-asheville,University of North Carolina at Asheville,717
+sacred-heart-major-seminary,Sacred Heart Major Seminary,718
+holy-names-university,Holy Names University,719
+wingate-university,Wingate University,720
+georgia-state-university,Georgia State University,721
+immaculata-university,Immaculata University,722
+bob-jones-university,Bob Jones University,723
+elmira-college,Elmira College,724
+union-college-nebraska,Union College Nebraska,725
+the-masters-college-and-seminary,The Master's College and Seminary,726
+benedictine-university,Benedictine University,727
+college-of-the-ozarks,College of the Ozarks,728
+the-christ-college-of-nursing-and-health-sciences,The Christ College of Nursing and Health Sciences,729
+saint-marys-university-of-minnesota,Saint Mary's University of Minnesota,730
+california-state-university-sacramento,California State University - Sacramento,731
+ferris-state-university,Ferris State University,732
+gwynedd-mercy-college,Gwynedd Mercy University,733
+cedar-crest-college,Cedar Crest College,734
+hampton-university,Hampton University,735
+jamestown-college,University of Jamestown,736
+john-paul-the-great-catholic-university,John Paul the Great Catholic University,737
+university-of-toledo,University of Toledo,738
+berklee-college-of-music,Berklee College of Music,739
+oakland-university,Oakland University,740
+millikin-university,Millikin University,741
+university-of-wisconsin-whitewater,University of Wisconsin - Whitewater,742
+radford-university,Radford University,743
+pennsylvania-state-university-penn-state-fayette-eberly-campus,Pennsylvania State University - Fayette - Eberly Campus,744
+the-university-of-texas-at-arlington,The University of Texas at Arlington,745
+menlo-college,Menlo College,746
+university-of-wisconsin-stevens-point,University of Wisconsin - Stevens Point,747
+trine-university,Trine University,748
+pennsylvania-state-university-penn-state-abington,Pennsylvania State University - Abington,749
+palm-beach-atlantic-university-west-palm-beach,Palm Beach Atlantic University,750
+olivet-nazarene-university,Olivet Nazarene University,751
+university-of-wisconsin-oshkosh,University of Wisconsin - Oshkosh,752
+florida-atlantic-university,Florida Atlantic University,753
+sonoma-state-university,Sonoma State University,754
+western-illinois-university,Western Illinois University,755
+university-of-south-florida-st-petersburg-campus,University of South Florida - St. Petersburg,756
+seton-hill-university,Seton Hill University,757
+our-lady-of-the-lake-college,Franciscan Missionaries of Our Lady University,758
+geneva-college,Geneva College,759
+shippensburg-university-of-pennsylvania,Shippensburg University of Pennsylvania,760
+adventist-university-of-health-sciences,Adventist University of Health Sciences,761
+northwestern-college-minnesota,University of Northwestern - St Paul,762
+alfred-university,Alfred University,763
+lesley-university,Lesley University,764
+montana-tech-of-the-university-of-montana,Montana Tech of the University of Montana,765
+concordia-university-irvine,Concordia University - Irvine,766
+saint-josephs-college-of-maine,Saint Joseph's College of Maine,767
+asbury-university,Asbury University,768
+the-university-of-texas-at-tyler,The University of Texas at Tyler,769
+louisiana-tech-university,Louisiana Tech University,770
+regis-college,Regis College,771
+ohio-state-university-mansfield-campus,Ohio State University - Mansfield Campus,772
+regent-university,Regent University,773
+southern-illinois-university-carbondale,Southern Illinois University Carbondale,774
+university-of-minnesota-crookston,University of Minnesota - Crookston,775
+university-of-indianapolis,University of Indianapolis,776
+mississippi-college,Mississippi College,777
+university-of-wisconsin-stout,University of Wisconsin - Stout,778
+the-kings-college,The King's College,779
+monmouth-college,Monmouth College,780
+sam-houston-state-university,Sam Houston State University,781
+albright-college,Albright College,782
+william-paterson-university-of-new-jersey,William Paterson University of New Jersey,783
+university-of-pittsburgh-greensburg,University of Pittsburgh - Greensburg,784
+morehouse-college,Morehouse College,785
+spring-hill-college,Spring Hill College,786
+university-of-north-carolina-at-greensboro,University of North Carolina at Greensboro,787
+minnesota-state-university-mankato,Minnesota State University - Mankato,788
+university-of-michigan-flint,University of Michigan - Flint,789
+fontbonne-university,Fontbonne University,790
+manhattanville-college,Manhattanville College,791
+manchester-college,Manchester University,792
+la-sierra-university,La Sierra University,793
+northwest-nazarene-university,Northwest Nazarene University,794
+hardin-simmons-university,Hardin - Simmons University,795
+university-of-mary-hardin-baylor,University of Mary Hardin - Baylor,796
+ashland-university,Ashland University,797
+southern-adventist-university,Southern Adventist University,798
+viterbo-university,Viterbo University,799
+winthrop-university,Winthrop University,800
+university-of-northern-colorado,University of Northern Colorado,801
+western-carolina-university,Western Carolina University,802
+chamberlain-college-of-nursing-ohio,Chamberlain University - Ohio,803
+wheeling-jesuit-university,Wheeling Jesuit University,804
+central-washington-university,Central Washington University,805
+suny-at-purchase-college,Purchase College,806
+kutztown-university-of-pennsylvania,Kutztown University of Pennsylvania,807
+southern-connecticut-state-university,Southern Connecticut State University,808
+georgia-southern-university,Georgia Southern University,809
+christian-brothers-university,Christian Brothers University,810
+carlow-university,Carlow University,811
+framingham-state-university,Framingham State University,812
+curry-college,Curry College,813
+university-of-nevada-las-vegas,University of Nevada - Las Vegas,814
+eastern-connecticut-state-university,Eastern Connecticut State University,815
+trevecca-nazarene-university,Trevecca Nazarene University,816
+portland-state-university,Portland State University,817
+woodbury-university,Woodbury University,818
+bridgewater-state-university,Bridgewater State University,819
+bethel-college-mishawaka,Bethel College - Mishawaka,820
+pennsylvania-state-university-brandywine,Pennsylvania State University - Brandywine,821
+pennsylvania-state-university-penn-state-schuylkill,Pennsylvania State University - Schuylkill,822
+california-state-university-fresno,California State University - Fresno,823
+eastern-washington-university,Eastern Washington University,824
+brigham-young-university-hawaii,Brigham Young University - Hawaii,825
+ohio-state-university-marion-campus,Ohio State University - Marion Campus,826
+city-university-of-seattle,City University of Seattle,827
+houston-baptist-university,Houston Baptist University,828
+california-state-university-monterey-bay,California State University - Monterey Bay,829
+north-park-university,North Park University,830
+missouri-state-university-springfield,Missouri State University - Springfield,831
+colby-sawyer-college,Colby - Sawyer College,832
+indiana-university-of-pennsylvania-main-campus,Indiana University of Pennsylvania - Main Campus,833
+university-of-nebraska-at-omaha,University of Nebraska at Omaha,834
+spring-arbor-university,Spring Arbor University,835
+wesleyan-college,Wesleyan College,836
+walden-university,Walden University,837
+vanguard-university-of-southern-california,Vanguard University of Southern California,838
+texas-lutheran-university,Texas Lutheran University,839
+college-of-mount-saint-vincent,College of Mount Saint Vincent,840
+madonna-university,Madonna University,841
+notre-dame-de-namur-university,Notre Dame de Namur University,842
+florida-gulf-coast-university,Florida Gulf Coast University,843
+pennsylvania-state-university-penn-state-worthington-scranton,Pennsylvania State University - Worthington Scranton,844
+bridgewater-college,Bridgewater College,845
+fidm-fashion-institute-of-design-and-merchandising-san-francisco,FIDM/Fashion Institute of Design & Merchandising - San Francisco,846
+holy-family-university,Holy Family University,847
+california-state-university-san-bernardino,California State University - San Bernardino,848
+kent-state-university-at-kent,Kent State University at Kent,849
+wichita-state-university,Wichita State University,850
+lock-haven-university,Lock Haven University,851
+lincoln-memorial-university,Lincoln Memorial University,852
+capitol-college,Capitol Technology University,853
+midwestern-state-university,Midwestern State University,854
+brigham-young-university-idaho,Brigham Young University - Idaho,855
+bowling-green-state-university-main-campus,Bowling Green State University - Main Campus,856
+salem-state-university,Salem State University,857
+eastern-international-college-belleville,Eastern International College - Belleville,858
+minnesota-state-university-moorhead,Minnesota State University - Moorhead,859
+saint-peters-college,Saint Peter's University,860
+concordia-university-seward,Concordia University - Nebraska,861
+chamberlain-college-of-nursing-illinois,Chamberlain University - Illinois,862
+william-jessup-university,William Jessup University,863
+eastern-university,Eastern University,864
+the-university-of-texas-at-san-antonio,The University of Texas at San Antonio,865
+faith-baptist-bible-college-and-theological-seminary,Faith Baptist Bible College and Theological Seminary,866
+university-of-saint-francis-fort-wayne,University of Saint Francis - Fort Wayne,867
+oral-roberts-university,Oral Roberts University,868
+long-island-university-brooklyn-campus,LIU Brooklyn,869
+converse-college,Converse College,870
+emory-and-henry-college,Emory and Henry College,871
+lubbock-christian-university,Lubbock Christian University,872
+grace-college-and-theological-seminary,Grace College and Theological Seminary,873
+chamberlain-college-of-nursing-florida,Chamberlain University - Florida,874
+florida-college,Florida College,875
+university-of-baltimore,University of Baltimore,876
+huntington-university,Huntington University,877
+university-of-wisconsin-milwaukee,University of Wisconsin - Milwaukee,878
+oklahoma-christian-university,Oklahoma Christian University,879
+northwood-university-michigan,Northwood University,880
+university-of-new-mexico-main-campus,University of New Mexico - Main Campus,881
+mckendree-university,McKendree University,882
+touro-college,Touro College,883
+oklahoma-baptist-university,Oklahoma Baptist University,884
+the-restaurant-school-at-walnut-hill-college,The Restaurant School at Walnut Hill College,885
+hiram-college,Hiram College,886
+ohio-state-university-lima-campus,Ohio State University - Lima Campus,887
+hastings-college,Hastings College,888
+piedmont-college,Piedmont College,889
+keuka-college,Keuka College,890
+fidm-fashion-institute-of-design-and-merchandising-los-angeles,FIDM/Fashion Institute of Design & Merchandising - Los Angeles,891
+suny-college-at-potsdam,SUNY Potsdam,892
+murray-state-university,Murray State University,893
+oglethorpe-university,Oglethorpe University,894
+pennsylvania-state-university-world-campus,Pennsylvania State University - World Campus,895
+judson-university,Judson University,896
+northland-college,Northland College,897
+kennesaw-state-university,Kennesaw State University,898
+college-of-mount-st-joseph,Mount St. Joseph University,899
+emmaus-bible-college,Emmaus Bible College,900
+alvernia-university,Alvernia University,901
+california-state-university-stanislaus,California State University - Stanislaus,902
+northern-arizona-university,Northern Arizona University,903
+newman-university,Newman University,904
+university-of-wisconsin-river-falls,University of Wisconsin - River Falls,905
+morningside-college,Morningside College,906
+freed-hardeman-university,Freed - Hardeman University,907
+lindenwood-university,Lindenwood University,908
+saint-xavier-university,Saint Xavier University,909
+florida-agricultural-and-mechanical-university,Florida Agricultural and Mechanical University,910
+university-of-sioux-falls,University of Sioux Falls,911
+centenary-college,Centenary University,912
+columbus-college-of-art-and-design,Columbus College of Art and Design,913
+massachusetts-college-of-liberal-arts,Massachusetts College of Liberal Arts,914
+thomas-more-college,Thomas More College,915
+california-university-of-pennsylvania,California University of Pennsylvania,916
+lyon-college,Lyon College,917
+vermont-technical-college,Vermont Technical College,918
+university-of-louisiana-lafayette,University of Louisiana at Lafayette,919
+university-of-colorado-at-colorado-springs,University of Colorado at Colorado Springs,920
+stephens-college,Stephens College,921
+maryville-college,Maryville College,922
+william-carey-university,William Carey University,923
+university-of-memphis,University of Memphis,924
+california-state-university-northridge,California State University - Northridge,925
+salem-college,Salem College,926
+saint-cloud-state-university,Saint Cloud State University,927
+rocky-mountain-college,Rocky Mountain College,928
+flagler-college-st-augustine,Flagler College - St Augustine,929
+alaska-pacific-university,Alaska Pacific University,930
+muskingum-university,Muskingum University,931
+malone-university,Malone University,932
+bryn-athyn-college-of-the-new-church,Bryn Athyn College of the New Church,933
+fairleigh-dickinson-university-metropolitan-campus,Fairleigh Dickinson University - Metropolitan Campus,934
+spalding-university,Spalding University,935
+point-park-university,Point Park University,936
+buena-vista-university,Buena Vista University,937
+saint-thomas-university,St. Thomas University,938
+johnson-and-wales-university-charlotte,Johnson & Wales University - Charlotte,939
+utica-college,Utica College,940
+central-methodist-university-college-of-liberal-arts-and-sciences,Central Methodist University - College of Liberal Arts & Sciences,941
+the-university-of-texas-pan-american,The University of Texas Rio Grande Valley,942
+bemidji-state-university,Bemidji State University,943
+boise-state-university,Boise State University,944
+caldwell-college,Caldwell University,945
+west-virginia-wesleyan-college,West Virginia Wesleyan College,946
+the-university-of-texas-of-the-permian-basin,The University of Texas of the Permian Basin,947
+the-university-of-tennessee-at-chattanooga,The University of Tennessee - Chattanooga,948
+delaware-valley-college,Delaware Valley University,949
+university-of-wisconsin-green-bay,University of Wisconsin - Green Bay,950
+cardinal-stritch-university,Cardinal Stritch University,951
+western-connecticut-state-university,Western Connecticut State University,952
+husson-university,Husson University,953
+national-louis-university,National Louis University,954
+california-state-university-east-bay,California State University - East Bay,955
+fresno-pacific-university,Fresno Pacific University,956
+aurora-university,Aurora University,957
+rivier-college,Rivier University,958
+university-of-south-alabama,University of South Alabama,959
+cuny-john-jay-college-of-criminal-justice,CUNY John Jay College of Criminal Justice,960
+suny-college-at-old-westbury,SUNY Old Westbury,961
+vaughn-college-of-aeronautics-and-technology,Vaughn College of Aeronautics and Technology,962
+king-college,King University,963
+aquinas-college-michigan,Aquinas College Michigan,964
+southwestern-adventist-university,Southwestern Adventist University,965
+saint-thomas-aquinas-college,St. Thomas Aquinas College,966
+expression-college-for-digital-arts,SAE Expression College,967
+northwest-missouri-state-university,Northwest Missouri State University,968
+kansas-city-art-institute,Kansas City Art Institute,969
+cuny-lehman-college,CUNY Lehman College,970
+cleveland-state-university,Cleveland State University,971
+anderson-university-indiana,Anderson University Indiana,972
+johnson-and-wales-university-denver,Johnson & Wales University - Denver,973
+wright-state-university-main-campus,Wright State University - Main Campus,974
+virginia-wesleyan-college,Virginia Wesleyan University,975
+trinity-international-university-illinois,Trinity International University - Illinois,976
+texas-womans-university,Texas Woman's University,977
+coastal-carolina-university,Coastal Carolina University,978
+midamerica-nazarene-university,MidAmerica Nazarene University,979
+cabrini-college,Cabrini University,980
+gardner-webb-university,Gardner - Webb University,981
+brenau-university,Brenau University,982
+pittsburg-state-university,Pittsburg State University,983
+lasell-college,Lasell College,984
+clarion-university-of-pennsylvania,Clarion University of Pennsylvania,985
+hawaii-pacific-university,Hawaii Pacific University,986
+middle-tennessee-state-university,Middle Tennessee State University,987
+william-woods-university,William Woods University,988
+ohio-state-university-newark-campus,Ohio State University - Newark Campus,989
+the-university-of-west-florida,The University of West Florida,990
+southern-utah-university,Southern Utah University,991
+university-of-alaska-fairbanks,University of Alaska Fairbanks,992
+concordia-university-chicago,Concordia University - Chicago,993
+california-state-university-bakersfield,California State University - Bakersfield,994
+oklahoma-wesleyan-university,Oklahoma Wesleyan University,995
+university-of-montevallo,University of Montevallo,996
+georgetown-college,Georgetown College,997
+barry-university,Barry University,998
+pennsylvania-state-university-penn-state-shenango,Pennsylvania State University - Shenango,999
+university-of-louisiana-monroe,University of Louisiana at Monroe,1000
+laguna-college-of-art-and-design,Laguna College of Art and Design,1001
+concordia-university-saint-paul,Concordia University - Saint Paul,1002
+johnson-university,Johnson University,1003
+eastern-international-college-jersey-city,Eastern International College - Jersey City,1004
+the-university-of-montana,The University of Montana,1005
+cazenovia-college,Cazenovia College,1006
+warren-wilson-college,Warren Wilson College,1007
+bay-path-college,Bay Path University,1008
+mansfield-university-of-pennsylvania,Mansfield University of Pennsylvania,1009
+plymouth-state-university,Plymouth State University,1010
+roosevelt-university,Roosevelt University,1011
+national-university,National University,1012
+felician-college,Felician University,1013
+suny-college-of-technology-at-alfred,Alfred State College,1014
+american-academy-of-art,American Academy of Art,1015
+university-of-central-missouri,University of Central Missouri,1016
+dickinson-state-university,Dickinson State University,1017
+the-university-of-tennessee-martin,The University of Tennessee - Martin,1018
+east-tennessee-state-university,East Tennessee State University,1019
+kean-university,Kean University,1020
+cornish-college-of-the-arts,Cornish College of the Arts,1021
+dominican-college-of-blauvelt,Dominican College of Blauvelt,1022
+schreiner-university,Schreiner University,1023
+california-state-university-los-angeles,California State University - Los Angeles,1024
+texas-wesleyan-university,Texas Wesleyan University,1025
+lincoln-christian-university,Lincoln Christian University,1026
+albertus-magnus-college,Albertus Magnus College,1027
+our-lady-of-holy-cross-college,University of Holy Cross,1028
+east-stroudsburg-university-of-pennsylvania,East Stroudsburg University of Pennsylvania,1029
+mercy-college-of-health-sciences,Mercy College of Health Sciences,1030
+anderson-university-sc,Anderson University South Carolina,1031
+averett-university,Averett University,1032
+johnson-and-wales-university-providence,Johnson & Wales University - Providence,1033
+adrian-college,Adrian College,1034
+university-of-southern-mississippi,University of Southern Mississippi,1035
+west-texas-a-and-m-university,West Texas A&M University,1036
+the-university-of-the-arts,The University of the Arts,1037
+grand-view-university,Grand View University,1038
+marshall-university,Marshall University,1039
+stephen-f-austin-state-university,Stephen F Austin State University,1040
+dakota-state-university,Dakota State University,1041
+southern-nazarene-university,Southern Nazarene University,1042
+idaho-state-university,Idaho State University,1043
+lakeland-college,Lakeland University,1044
+lake-superior-state-university,Lake Superior State University,1045
+university-of-hawaii-at-hilo,University of Hawaii at Hilo,1046
+wright-state-university-lake-campus,Wright State University - Lake Campus,1047
+west-virginia-university-institute-of-technology,West Virginia University Institute of Technology,1048
+american-public-university-system,American Public University System,1049
+chaminade-university-of-honolulu,Chaminade University of Honolulu,1050
+nichols-college,Nichols College,1051
+arizona-state-university-skysong,Arizona State University - Skysong,1052
+frostburg-state-university,Frostburg State University,1053
+tarleton-state-university,Tarleton State University,1054
+northern-michigan-university,Northern Michigan University,1055
+university-of-akron-main-campus,University of Akron Main Campus,1056
+chestnut-hill-college,Chestnut Hill College,1057
+university-of-north-alabama,University of North Alabama,1058
+university-of-central-arkansas,University of Central Arkansas,1059
+minot-state-university,Minot State University,1060
+corban-university,Corban University,1061
+southeast-missouri-state-university,Southeast Missouri State University,1062
+texas-a-and-m-university-kingsville,Texas A&M University - Kingsville,1063
+herzing-university-brookfield,Herzing University - Brookfield,1064
+emporia-state-university,Emporia State University,1065
+wilmington-college,Wilmington College,1066
+lagrange-college,LaGrange College,1067
+gallaudet-university,Gallaudet University,1068
+neumann-university,Neumann University,1069
+bluffton-university,Bluffton University,1070
+academy-of-art-university,Academy of Art University,1071
+ave-maria-university,Ave Maria University,1072
+salish-kootenai-college,Salish Kootenai College,1073
+heidelberg-university,Heidelberg University,1074
+marymount-manhattan-college,Marymount Manhattan College,1075
+saint-leo-university,Saint Leo University,1076
+university-of-alaska-anchorage,University of Alaska Anchorage,1077
+drury-university,Drury University,1078
+evangel-university,Evangel University,1079
+university-of-saint-mary,University of Saint Mary,1080
+lynn-university,Lynn University,1081
+moore-college-of-art-and-design,Moore College of Art and Design,1082
+marian-university-wisconsin,Marian University,1083
+concordia-college-new-york,Concordia College - New York,1084
+the-evergreen-state-college,The Evergreen State College,1085
+pfeiffer-university,Pfeiffer University,1086
+northern-kentucky-university,Northern Kentucky University,1087
+mount-mary-college,Mount Mary University,1088
+becker-college,Becker College,1089
+wells-college,Wells College,1090
+suny-college-at-buffalo,Buffalo State,1091
+saginaw-valley-state-university,Saginaw Valley State University,1092
+north-greenville-university,North Greenville University,1093
+chamberlain-college-of-nursing-missouri,Chamberlain University - Missouri,1094
+lee-university,Lee University,1095
+metropolitan-state-university,Metropolitan State University,1096
+avila-university,Avila University,1097
+friends-university,Friends University,1098
+embry-riddle-aeronautical-university-worldwide,Embry - Riddle Aeronautical University - Worldwide,1099
+eastern-michigan-university,Eastern Michigan University,1100
+arkansas-state-university-main-campus,Arkansas State University - Main Campus,1101
+washington-adventist-university,Washington Adventist University,1102
+simpson-university,Simpson University,1103
+college-of-saint-elizabeth,College of Saint Elizabeth,1104
+washburn-university,Washburn University,1105
+cornerstone-university,Cornerstone University,1106
+winston-salem-state-university,Winston - Salem State University,1107
+wayne-state-college,Wayne State College,1108
+columbia-international-university,Columbia International University,1109
+lenoir-rhyne-university,Lenoir - Rhyne University,1110
+siena-heights-university,Siena Heights University,1111
+guilford-college,Guilford College,1112
+concordia-university-portland,Concordia University - Portland,1113
+newschool-of-architecture-and-design,Newschool of Architecture and Design,1114
+johnson-and-wales-university-florida,Johnson & Wales University - North Miami,1115
+the-university-of-texas-at-el-paso,The University of Texas at El Paso,1116
+unity-college,Unity College,1117
+castleton-state-college,Castleton University,1118
+tuskegee-university,Tuskegee University,1119
+louisiana-college,Louisiana College,1120
+valley-city-state-university,Valley City State University,1121
+texas-a-and-m-international-university,Texas A&M International University,1122
+rhode-island-college,Rhode Island College,1123
+bryan-college-dayton,Bryan College - Dayton,1124
+governors-state-university,Governors State University,1125
+mount-marty-college,Mount Marty College,1126
+union-institute-and-university,Union Institute & University,1127
+la-roche-college,La Roche College,1128
+university-of-southern-maine,University of Southern Maine,1129
+hilbert-college,Hilbert College,1130
+st-francis-college,St. Francis College,1131
+the-university-of-virginias-college-at-wise,The University of Virginia's College at Wise,1132
+western-state-college-of-colorado,Western Colorado University,1133
+graceland-university-lamoni,Graceland University - Lamoni,1134
+cleary-university,Cleary University,1135
+southwest-minnesota-state-university,Southwest Minnesota State University,1136
+francis-marion-university,Francis Marion University,1137
+north-carolina-a-and-t-state-university,North Carolina A & T State University,1138
+new-jersey-city-university,New Jersey City University,1139
+edinboro-university-of-pennsylvania,Edinboro University of Pennsylvania,1140
+university-of-south-carolina-upstate,University of South Carolina - Upstate,1141
+new-mexico-state-university-main-campus,New Mexico State University - Main Campus,1142
+western-oregon-university,Western Oregon University,1143
+fort-hays-state-university,Fort Hays State University,1144
+california-state-university-dominguez-hills,California State University - Dominguez Hills,1145
+franklin-pierce-university,Franklin Pierce University,1146
+university-of-new-orleans,University of New Orleans,1147
+american-musical-and-dramatic-academy,American Musical and Dramatic Academy,1148
+north-carolina-central-university,North Carolina Central University,1149
+cuny-college-of-staten-island,College of Staten Island CUNY,1150
+ohio-dominican-university,Ohio Dominican University,1151
+university-of-charleston,University of Charleston,1152
+weber-state-university,Weber State University,1153
+maranatha-baptist-bible-college,Maranatha Baptist University,1154
+university-of-maine-at-farmington,University of Maine at Farmington,1155
+liberty-university,Liberty University,1156
+concordia-university-texas,Concordia University - Texas,1157
+philadelphia-biblical-university-langhorne,Cairn University,1158
+nicholls-state-university,Nicholls State University,1159
+university-of-houston-downtown,University of Houston - Downtown,1160
+midway-college,Midway University,1161
+erskine-college-and-seminary,Erskine College,1162
+fisk-university,Fisk University,1163
+saint-mary-of-the-woods-college,Saint Mary - of - the - Woods College,1164
+southwestern-college,Southwestern College,1165
+columbia-college-south-carolina,Columbia College,1166
+texas-a-and-m-university-commerce,Texas A&M University - Commerce,1167
+st-vincents-college,St Vincent's College,1168
+catawba-college,Catawba College,1169
+humboldt-state-university,Humboldt State University,1170
+texas-a-and-m-university-corpus-christi,Texas A&M University - Corpus Christi,1171
+northwest-christian-university,Northwest Christian University,1172
+university-of-north-georgia,University of North Georgia,1173
+university-of-north-texas-at-dallas,University of North Texas at Dallas,1174
+lim-college,LIM College,1175
+georgian-court-university,Georgian Court University,1176
+keiser-university-ft-lauderdale,Keiser University - Ft Lauderdale,1177
+barton-college,Barton College,1178
+eastern-kentucky-university,Eastern Kentucky University,1179
+purdue-university-northwest,Purdue University Northwest,1180
+claflin-university,Claflin University,1181
+briar-cliff-university,Briar Cliff University,1182
+greenville-college,Greenville University,1183
+western-kentucky-university,Western Kentucky University,1184
+mcpherson-college,McPherson College,1185
+northern-state-university,Northern State University,1186
+thiel-college,Thiel College,1187
+bethel-college-north-newton,Bethel College - North Newton,1188
+southwestern-oklahoma-state-university,Southwestern Oklahoma State University,1189
+university-of-southern-indiana,University of Southern Indiana,1190
+texas-a-and-m-university-texarkana,Texas A&M University - Texarkana,1191
+southern-wesleyan-university,Southern Wesleyan University,1192
+southeastern-louisiana-university,Southeastern Louisiana University,1193
+alice-lloyd-college,Alice Lloyd College,1194
+university-of-hawaii-west-oahu,University of Hawaii - West Oahu,1195
+lamar-university,Lamar University,1196
+chadron-state-college,Chadron State College,1197
+university-of-arkansas-at-little-rock,University of Arkansas at Little Rock,1198
+mary-baldwin-college,Mary Baldwin University,1199
+hobe-sound-bible-college,Hobe Sound Bible College,1200
+suny-college-of-technology-at-delhi,SUNY Delhi,1201
+bethany-college-west-virginia,Bethany College West Virginia,1202
+warner-pacific-college,Warner Pacific College,1203
+silver-lake-college,Silver Lake College of the Holy Family,1204
+rockford-college,Rockford University,1205
+bowie-state-university,Bowie State University,1206
+university-of-central-oklahoma,University of Central Oklahoma,1207
+university-of-wisconsin-superior,University of Wisconsin - Superior,1208
+wheelock-college,Boston University Wheelock College of Education and Human Development,1209
+cogswell-polytechnical-college,Cogswell College,1210
+paul-smiths-college-of-arts-and-science,Paul Smiths College of Arts and Science,1211
+alverno-college,Alverno College,1212
+shepherd-university,Shepherd University,1213
+peirce-college,Peirce College,1214
+dakota-wesleyan-university,Dakota Wesleyan University,1215
+grand-canyon-university,Grand Canyon University,1216
+university-of-houston-victoria,University of Houston - Victoria,1217
+utah-valley-university,Utah Valley University,1218
+boston-architectural-college,Boston Architectural College,1219
+mcmurry-university,McMurry University,1220
+oakland-city-university,Oakland City University,1221
+mcneese-state-university,McNeese State University,1222
+prescott-college,Prescott College,1223
+university-of-south-carolina-aiken,University of South Carolina - Aiken,1224
+maharishi-university-of-management,Maharishi University of Management,1225
+ottawa-university-ottawa,Ottawa University - Ottawa,1226
+eureka-college,Eureka College,1227
+ozark-christian-college,Ozark Christian College,1228
+wilson-college,Wilson College,1229
+university-of-the-ozarks,University of the Ozarks,1230
+goldey-beacom-college,Goldey - Beacom College,1231
+bellevue-university,Bellevue University,1232
+university-of-bridgeport,University of Bridgeport,1233
+carson-newman-college,Carson - Newman University,1234
+watkins-college-of-art-design-and-film,Watkins College of Art Design & Film,1235
+nyack-college,Nyack College,1236
+southern-california-institute-of-technology,Southern California Institute of Technology,1237
+brookline-college-albuquerque,Brookline College - Albuquerque,1238
+our-lady-of-the-lake-university-san-antonio,Our Lady of the Lake University,1239
+eastern-nazarene-college,Eastern Nazarene College,1240
+southern-virginia-university,Southern Virginia University,1241
+lancaster-bible-college,Lancaster Bible College,1242
+university-of-west-georgia,University of West Georgia,1243
+cox-college,Cox College,1244
+methodist-university,Methodist University,1245
+milwaukee-institute-of-art-and-design,Milwaukee Institute of Art & Design,1246
+charleston-southern-university,Charleston Southern University,1247
+midland-university,Midland University,1248
+fort-lewis-college,Fort Lewis College,1249
+cumberland-university,Cumberland University,1250
+kings-university,The King's University,1251
+armstrong-atlantic-state-university,Armstrong State University,1252
+montserrat-college-of-art,Montserrat College of Art,1253
+angelo-state-university,Angelo State University,1254
+young-harris-college,Young Harris College,1255
+southern-oregon-university,Southern Oregon University,1256
+herzing-university-winter-park,Herzing University - Winter Park,1257
+indiana-state-university,Indiana State University,1258
+north-central-university,North Central University,1259
+eastern-oregon-university,Eastern Oregon University,1260
+appalachian-bible-college,Appalachian Bible College,1261
+tabor-college,Tabor College,1262
+valdosta-state-university,Valdosta State University,1263
+hope-international-university,Hope International University,1264
+american-international-college,American International College,1265
+youngstown-state-university,Youngstown State University,1266
+williams-baptist-college,Williams Baptist College,1267
+azusa-pacific-university-college,Azusa Pacific University College,1268
+nevada-state-college,Nevada State College,1269
+northwestern-state-university-of-louisiana,Northwestern State University of Louisiana,1270
+mount-aloysius-college,Mount Aloysius College,1271
+columbia-college-chicago,Columbia College Chicago,1272
+colorado-christian-university,Colorado Christian University,1273
+alderson-broaddus-college,Alderson Broaddus University,1274
+morgan-state-university,Morgan State University,1275
+delta-state-university,Delta State University,1276
+university-of-alaska-southeast,University of Alaska Southeast,1277
+everglades-university,Everglades University,1278
+cuny-york-college,CUNY York College,1279
+mississippi-university-for-women,Mississippi University for Women,1280
+herzing-university-minneapolis,Herzing University - Minneapolis,1281
+university-of-maryland-eastern-shore,University of Maryland Eastern Shore,1282
+midwestern-baptist-theological-seminary,Midwestern Baptist Theological Seminary,1283
+austin-peay-state-university,Austin Peay State University,1284
+free-will-baptist-bible-college,Welch College,1285
+delaware-state-university,Delaware State University,1286
+trine-university-fort-wayne-regional-campus,Trine University - Regional/Non - Traditional Campuses,1287
+suny-college-of-agriculture-and-technology-at-cobleskill,SUNY Cobleskill,1288
+lake-erie-college,Lake Erie College,1289
+blue-mountain-college,Blue Mountain College,1290
+concordia-university-ann-arbor,Concordia University - Ann Arbor,1291
+maria-college-of-albany,Maria College of Albany,1292
+mount-olive-college,University of Mount Olive,1293
+university-of-great-falls,University of Providence,1294
+tennessee-wesleyan-college,Tennessee Wesleyan University,1295
+belhaven-university,Belhaven University,1296
+carlos-albizu-university-miami,Carlos Albizu University - Miami,1297
+quincy-university,Quincy University,1298
+fayetteville-state-university,Fayetteville State University,1299
+norfolk-state-university,Norfolk State University,1300
+morehead-state-university,Morehead State University,1301
+the-university-of-montana-western,The University of Montana - Western,1302
+prairie-view-a-and-m-university,Prairie View A & M University,1303
+huntingdon-college,Huntingdon College,1304
+jacksonville-state-university,Jacksonville State University,1305
+louisiana-state-university-shreveport,Louisiana State University - Shreveport,1306
+trident-university-international,Trident University International,1307
+anna-maria-college,Anna Maria College,1308
+howard-payne-university,Howard Payne University,1309
+georgia-southwestern-state-university,Georgia Southwestern State University,1310
+elizabeth-city-state-university,Elizabeth City State University,1311
+strayer-university-north-carolina,Strayer University - North Carolina,1312
+southern-new-hampshire-university,Southern New Hampshire University,1313
+university-of-mobile,University of Mobile,1314
+northeastern-state-university,Northeastern State University,1315
+calvary-bible-college-and-theological-seminary,Calvary University,1316
+university-of-dubuque,University of Dubuque,1317
+shorter-university,Shorter University,1318
+coker-college,Coker College,1319
+maine-college-of-art,Maine College of Art,1320
+northeastern-illinois-university,Northeastern Illinois University,1321
+mercy-college,Mercy College,1322
+university-of-north-carolina-at-pembroke,University of North Carolina at Pembroke,1323
+san-francisco-art-institute,San Francisco Art Institute,1324
+colorado-state-university-pueblo,Colorado State University - Pueblo,1325
+virginia-state-university,Virginia State University,1326
+southwest-baptist-university,Southwest Baptist University,1327
+lourdes-college,Lourdes University,1328
+kansas-wesleyan-university,Kansas Wesleyan University,1329
+macmurray-college,MacMurray College,1330
+suny-college-of-technology-at-canton,SUNY Canton,1331
+wayland-baptist-university,Wayland Baptist University,1332
+montana-state-university-northern,Montana State University - Northern,1333
+mayville-state-university,Mayville State University,1334
+columbus-state-university,Columbus State University,1335
+capella-university,Capella University,1336
+belmont-abbey-college,Belmont Abbey College,1337
+baptist-bible-college-and-seminary-of-pennsylvania,Clarks Summit University,1338
+northpoint-bible-college,Northpoint Bible College,1339
+henderson-state-university,Henderson State University,1340
+gods-bible-school-and-college,Gods Bible School and College,1341
+university-of-northwestern-ohio,University of Northwestern Ohio,1342
+rosemont-college,Rosemont College,1343
+troy-university,Troy University,1344
+cuny-new-york-city-college-of-technology,CUNY New York City College of Technology,1345
+south-university-tampa,South University - Tampa,1346
+limestone-college,Limestone College,1347
+columbia-southern-university,Columbia Southern University,1348
+newberry-college,Newberry College,1349
+blackburn-college,Blackburn College,1350
+indiana-university-purdue-university-fort-wayne,Indiana University - Purdue University - Fort Wayne,1351
+rasmussen-college-minnesota,Rasmussen College - Minnesota,1352
+heritage-university,Heritage University,1353
+olivet-college,Olivet College,1354
+brescia-university,Brescia University,1355
+lincoln-university-of-pennsylvania,Lincoln University,1356
+west-liberty-university,West Liberty University,1357
+clayton-state-university,Clayton State University,1358
+culver-stockton-college,Culver - Stockton College,1359
+thomas-university,Thomas University,1360
+defiance-college,Defiance College,1361
+university-of-wisconsin-parkside,University of Wisconsin - Parkside,1362
+the-baptist-college-of-florida,The Baptist College of Florida,1363
+mesa-state-college,Colorado Mesa University,1364
+crown-college,Crown College,1365
+university-of-west-alabama,University of West Alabama,1366
+black-hills-state-university,Black Hills State University,1367
+musicians-institute,Musicians Institute,1368
+university-of-south-carolina-beaufort,University of South Carolina - Beaufort,1369
+sierra-nevada-college,Sierra Nevada College,1370
+indiana-university-southeast,Indiana University - Southeast,1371
+davis-and-elkins-college,Davis & Elkins College,1372
+east-texas-baptist-university,East Texas Baptist University,1373
+suny-empire-state-college,SUNY Empire State College,1374
+franklin-university,Franklin University,1375
+iowa-wesleyan-college,Iowa Wesleyan University,1376
+the-college-of-westchester,The College of Westchester,1377
+dillard-university,Dillard University,1378
+columbia-college-hollywood,Columbia College Hollywood,1379
+davenport-university,Davenport University,1380
+lander-university,Lander University,1381
+santa-barbara-business-college-ventura,Santa Barbara Business College - Ventura,1382
+ohio-university-zanesville-campus,Ohio University - Zanesville Campus,1383
+monroe-college-main-campus,Monroe College,1384
+san-diego-christian-college,San Diego Christian College,1385
+humphreys-college-stockton-and-modesto-campuses,Humphreys University - Stockton and Modesto Campuses,1386
+life-university,Life University,1387
+florida-national-university-main-campus,Florida National University - Main Campus,1388
+new-hampshire-institute-of-art,New Hampshire Institute of Art,1389
+auburn-university-at-montgomery,Auburn University at Montgomery,1390
+park-university,Park University,1391
+upper-iowa-university,Upper Iowa University,1392
+strayer-university-maryland,Strayer University - Maryland,1393
+indiana-university-kokomo,Indiana University - Kokomo,1394
+wilmington-university,Wilmington University,1395
+indiana-university-south-bend,Indiana University - South Bend,1396
+mount-ida-college,UMass Amherst Mount Ida Campus,1397
+arkansas-tech-university,Arkansas Tech University,1398
+kent-state-university-at-east-liverpool,Kent State University at East Liverpool,1399
+toccoa-falls-college,Toccoa Falls College,1400
+chicago-state-university,Chicago State University,1401
+york-college-nebraska,York College,1402
+south-college,South College,1403
+presentation-college,Presentation College,1404
+pima-medical-institute-tucson,Pima Medical Institute - Tucson,1405
+university-of-advancing-technology,University of Advancing Technology,1406
+holy-cross-college,Holy Cross College,1407
+clark-atlanta-university,Clark Atlanta University,1408
+peru-state-college,Peru State College,1409
+columbia-college-missouri,Columbia College,1410
+missouri-western-state-university,Missouri Western State University,1411
+montana-state-university-billings,Montana State University - Billings,1412
+medaille-college,Medaille College,1413
+strayer-university-tennessee,Strayer University - Tennessee,1414
+kent-state-university-at-salem,Kent State University at Salem,1415
+mt-sierra-college,Mt Sierra College,1416
+east-central-university,East Central University,1417
+university-of-science-and-arts-of-oklahoma,University of Science and Arts of Oklahoma,1418
+texas-southern-university,Texas Southern University,1419
+naropa-university,Naropa University,1420
+hannibal-lagrange-college,Hannibal - LaGrange University,1421
+lyndon-state-college,Lyndon State College,1422
+tougaloo-college,Tougaloo College,1423
+grace-university,Grace University,1424
+southwestern-assemblies-of-god-university,Southwestern Assemblies of God University,1425
+cambridge-college,Cambridge College,1426
+oakwood-university,Oakwood University,1427
+multnomah-university,Multnomah University,1428
+living-arts-college,Living Arts College,1429
+mid-america-christian-university,Mid - America Christian University,1430
+southeastern-oklahoma-state-university,Southeastern Oklahoma State University,1431
+pacific-northwest-college-of-art,Pacific Northwest College of Art,1432
+metropolitan-state-college-of-denver,Metropolitan State University of Denver,1433
+montreat-college,Montreat College,1434
+davis-college,Davis College,1435
+south-university-novi,South University - Novi,1436
+southern-arkansas-university-main-campus,Southern Arkansas University Main Campus,1437
+tennessee-state-university,Tennessee State University,1438
+devry-university-florida,DeVry University - Florida,1439
+keystone-college,Keystone College,1440
+southeastern-university,Southeastern University,1441
+university-of-antelope-valley,University of Antelope Valley,1442
+central-pennsylvania-college,Central Penn College,1443
+bethany-college-kansas,Bethany College Kansas,1444
+adams-state-college,Adams State University,1445
+shawnee-state-university,Shawnee State University,1446
+missouri-southern-state-university,Missouri Southern State University,1447
+reinhardt-university,Reinhardt University,1448
+rochester-college,Rochester College,1449
+tiffin-university,Tiffin University,1450
+fairmont-state-university,Fairmont State University,1451
+devry-university-new-jersey,DeVry University - New Jersey,1452
+haskell-indian-nations-university,Haskell Indian Nations University,1453
+indiana-university-east,Indiana University - East,1454
+strayer-university-global-region,Strayer University - Global Region,1455
+johnson-state-college,Johnson State College,1456
+lewis-clark-state-college,Lewis - Clark State College,1457
+strayer-university-florida,Strayer University - Florida,1458
+sterling-college-kansas,Sterling College,1459
+ecpi-university,ECPI University,1460
+kaplan-university-cedar-rapids-campus,Kaplan University - Cedar Rapids Campus,1461
+university-of-maryland-university-college,University of Maryland - University College,1462
+university-of-the-district-of-columbia,University of the District of Columbia,1463
+notre-dame-college,Notre Dame College,1464
+brookline-college-tucson,Brookline College - Tucson,1465
+university-of-maine-at-fort-kent,University of Maine at Fort Kent,1466
+devry-university-virginia,DeVry University - Virginia,1467
+pennsylvania-college-of-art-and-design,Pennsylvania College of Art and Design,1468
+indiana-institute-of-technology,Indiana Institute of Technology,1469
+memphis-college-of-art,Memphis College of Art,1470
+georgia-gwinnett-college,Georgia Gwinnett College,1471
+university-of-arkansas-fort-smith,University of Arkansas - Fort Smith,1472
+amridge-university,Amridge University,1473
+northwestern-oklahoma-state-university,Northwestern Oklahoma State University,1474
+kentucky-wesleyan-college,Kentucky Wesleyan College,1475
+marymount-college,Marymount California University,1476
+sum-bible-college-and-theological-seminary,SUM Bible College and Theological Seminary,1477
+jackson-state-university,Jackson State University,1478
+life-pacific-college,Life Pacific College,1479
+morrisville-state-college,Morrisville State College,1480
+barclay-college,Barclay College,1481
+pikeville-college,University of Pikeville,1482
+colorado-mountain-college,Colorado Mountain College,1483
+ferrum-college,Ferrum College,1484
+devry-university-arizona,DeVry University - Arizona,1485
+thomas-college,Thomas College,1486
+johnson-c-smith-university,Johnson C Smith University,1487
+coppin-state-university,Coppin State University,1488
+alcorn-state-university,Alcorn State University,1489
+university-of-the-cumberlands,University of the Cumberlands,1490
+mitchell-college,Mitchell College,1491
+devry-university-ohio,DeVry University - Ohio,1492
+eagle-gate-college-murray,Eagle Gate College - Murray,1493
+nossi-college-of-art,Nossi College of Art,1494
+tusculum-college,Tusculum College,1495
+william-penn-university,William Penn University,1496
+cheyney-university-of-pennsylvania,Cheyney University of Pennsylvania,1497
+indiana-university-northwest,Indiana University - Northwest,1498
+trinity-washington-university,Trinity Washington University,1499
+bluefield-college,Bluefield College,1500
+nazarene-bible-college,Nazarene Bible College,1501
+southern-university-and-a-and-m-college,Southern University and A & M College,1502
+judson-college,Judson College,1503
+bloomfield-college,Bloomfield College,1504
+central-baptist-college,Central Baptist College,1505
+strayer-university-south-carolina,Strayer University - South Carolina,1506
+strayer-university-georgia,Strayer University - Georgia,1507
+lees-mcrae-college,Lees - McRae College,1508
+daymar-institute-clarksville,Daymar College - Clarksville,1509
+calumet-college-of-saint-joseph,Calumet College of Saint Joseph,1510
+college-america-colorado-springs,CollegeAmerica - Colorado Springs,1511
+full-sail-university,Full Sail University,1512
+south-carolina-state-university,South Carolina State University,1513
+kaplan-university-omaha-campus,Kaplan University - Omaha Campus,1514
+herzing-university-birmingham,Herzing University - Birmingham,1515
+cincinnati-christian-university,Cincinnati Christian University,1516
+kendall-college,Kendall College,1517
+remington-college-heathrow-campus,Remington College - Heathrow Campus,1518
+daymar-institute-nashville,Daymar College - Nashville,1519
+finlandia-university,Finlandia University,1520
+luther-rice-university-and-seminary,Luther Rice College & Seminary,1521
+devry-university-georgia,DeVry University - Georgia,1522
+valley-forge-christian-college,University of Valley Forge,1523
+berkeley-college-woodland-park,Berkeley College - Woodland Park,1524
+middle-georgia-state-university,Middle Georgia State University,1525
+california-college-san-diego,California College San Diego,1526
+missouri-baptist-university,Missouri Baptist University,1527
+peace-college,William Peace University,1528
+arizona-christian-university,Arizona Christian University,1529
+bethel-university-tennessee,Bethel University,1530
+daymar-institute-murfreesboro,Daymar College - Murfreesboro,1531
+devry-university-texas,DeVry University - Texas,1532
+devry-university-illinois,DeVry University - Illinois,1533
+fort-valley-state-university,Fort Valley State University,1534
+western-international-university,Western International University,1535
+metropolitan-college-of-new-york,Metropolitan College of New York,1536
+cuny-medgar-evers-college,CUNY Medgar Evers College,1537
+sul-ross-state-university,Sul Ross State University,1538
+berkeley-college-new-york,Berkeley College - New York,1539
+eastern-new-mexico-university-main-campus,Eastern New Mexico University - Main Campus,1540
+faulkner-university,Faulkner University,1541
+university-of-arkansas-at-pine-bluff,University of Arkansas at Pine Bluff,1542
+albany-state-university,Albany State University,1543
+kentucky-state-university,Kentucky State University,1544
+emmanuel-college-georgia,Emmanuel College Georgia,1545
+south-university-west-palm-beach,South University - West Palm Beach,1546
+strayer-university-alabama,Strayer University - Alabama,1547
+manhattan-christian-college,Manhattan Christian College,1548
+bennett-college-for-women,Bennett College,1549
+south-universityrichmond,South University - Richmond,1550
+florida-memorial-university,Florida Memorial University,1551
+ohio-valley-university,Ohio Valley University,1552
+robert-morris-university-illinois,Robert Morris University Illinois,1553
+martin-methodist-college,Martin Methodist College,1554
+grambling-state-university,Grambling State University,1555
+rocky-mountain-college-of-art-and-design,Rocky Mountain College of Art and Design,1556
+concorde-career-colleges,Concorde Career Colleges,1557
+dixie-state-college-of-utah,Dixie State University,1558
+devry-university-california,DeVry University - California,1559
+strayer-university-texas,Strayer University - Texas,1560
+grace-bible-college,Grace Bible College,1561
+louisiana-state-university-alexandria,Louisiana State University - Alexandria,1562
+lindsey-wilson-college,Lindsey Wilson College,1563
+charter-college-anchorage,Charter College,1564
+abraham-baldwin-agricultural-college,Abraham Baldwin Agricultural College,1565
+campbellsville-university,Campbellsville University,1566
+university-of-maine-at-machias,University of Maine at Machias,1567
+new-england-college,New England College,1568
+the-college-of-new-rochelle,The College of New Rochelle,1569
+mars-hill-college,Mars Hill University,1570
+voorhees-college,Voorhees College,1571
+harrisburg-university-of-science-and-technology,Harrisburg University of Science and Technology,1572
+cameron-university,Cameron University,1573
+wesley-college,Wesley College,1574
+bethune-cookman-university,Bethune - Cookman University,1575
+hodges-university,Hodges University,1576
+morris-college,Morris College,1577
+dean-college,Dean College,1578
+herzing-university-kenosha,Herzing University - Kenosha,1579
+truett-mcconnell-college,Truett McConnell University,1580
+warner-university,Warner University,1581
+st-andrews-presbyterian-college,St. Andrews University,1582
+north-carolina-wesleyan-college,North Carolina Wesleyan College,1583
+rogers-state-university,Rogers State University,1584
+bluefield-state-college,Bluefield State College,1585
+alabama-a-and-m-university,Alabama A & M University,1586
+concord-university,Concord University,1587
+talladega-college,Talladega College,1588
+brevard-college,Brevard College,1589
+strayer-university-pennsylvania,Strayer University - Pennsylvania,1590
+marygrove-college,Marygrove College,1591
+villa-maria-college,Villa Maria College,1592
+university-of-arkansas-at-monticello,University of Arkansas at Monticello,1593
+kentucky-christian-university,Kentucky Christian University,1594
+university-of-the-virgin-islands,University of the Virgin Islands,1595
+rust-college,Rust College,1596
+colorado-technical-university-colorado-springs,Colorado Technical University - Colorado Springs,1597
+somerset-christian-college,Pillar College,1598
+greensboro-college,Greensboro College,1599
+dallas-christian-college,Dallas Christian College,1600
+western-new-mexico-university,Western New Mexico University,1601
+devry-college-of-new-york,DeVry College of New York,1602
+west-virginia-state-university,West Virginia State University,1603
+boricua-college,Boricua College,1604
+strayer-university-district-of-columbia,Strayer University - District of Columbia,1605
+waldorf-college,Waldorf University,1606
+webber-international-university,Webber International University,1607
+central-christian-college-of-the-bible,Central Christian College of the Bible,1608
+dalton-state-college,Dalton State College,1609
+mississippi-valley-state-university,Mississippi Valley State University,1610
+south-university-columbia,South University - Columbia,1611
+lincoln-college,Lincoln College,1612
+college-of-biblical-studies-houston,College of Biblical Studies - Houston,1613
+university-of-rio-grande,University of Rio Grande,1614
+strayer-university-virginia,Strayer University - Virginia,1615
+kaplan-university-des-moines-campus,Kaplan University - Des Moines Campus,1616
+alabama-state-university,Alabama State University,1617
+glenville-state-college,Glenville State College,1618
+south-university-savannah,South University - Savannah,1619
+savannah-state-university,Savannah State University,1620
+brookline-college-phoenix,Brookline College - Phoenix,1621
+university-of-phoenix-colorado,University of Phoenix - Colorado,1622
+united-tribes-technical-college,United Tribes Technical College,1623
+pine-manor-college,Pine Manor College,1624
+american-intercontinental-university-houston,American InterContinental University - Houston,1625
+oklahoma-panhandle-state-university,Oklahoma Panhandle State University,1626
+college-of-coastal-georgia,College of Coastal Georgia,1627
+new-mexico-highlands-university,New Mexico Highlands University,1628
+fisher-college,Fisher College,1629
+bay-state-college,Bay State College,1630
+paine-college,Paine College,1631
+chowan-university,Chowan University,1632
+university-of-the-southwest,University of the Southwest,1633
+south-universityvirginia-beach,South University - Virginia Beach,1634
+stratford-university,Stratford University,1635
+herzing-university-madison,Herzing University - Madison,1636
+atlanta-christian-college,Point University,1637
+allen-university,Allen University,1638
+baptist-bible-college,Baptist Bible College,1639
+union-college-kentucky,Union College Kentucky,1640
+university-of-phoenix-california,University of Phoenix - California,1641
+stevens-henager-college-ogden,Stevens - Henager College,1642
+crowleys-ridge-college,Crowley's Ridge College,1643
+university-of-phoenix-arizona,University of Phoenix - Arizona,1644
+saint-augustines-college,Saint Augustine's University,1645
+south-university-montgomery,South University - Montgomery,1646
+the-art-institute-of-houston,The Art Institute of Houston,1647
+benedict-college,Benedict College,1648
+institute-of-american-indian-and-alaska-native-culture,Institute of American Indian and Alaska Native Culture and Arts Development,1649
+eagle-gate-college-layton,Eagle Gate College - Layton,1650
+midstate-college,Midstate College,1651
+urbana-university,Urbana University,1652
+post-university,Post University,1653
+national-american-university-sioux-falls,National American University - Sioux Falls,1654
+ohio-christian-university,Ohio Christian University,1655
+south-university-the-art-institute-of-dallas,South University - The Art Institute of Dallas,1656
+huston-tillotson-university,Huston - Tillotson University,1657
+missouri-valley-college,Missouri Valley College,1658
+lincoln-university-missouri,Lincoln University,1659
+five-towns-college,Five Towns College,1660
+wilberforce-university,Wilberforce University,1661
+langston-university,Langston University,1662
+piedmont-international-university,Piedmont International University,1663
+herzing-university-toledo,Herzing University - Toledo,1664
+everest-university-orange-park,Altierus Career College - Orange Park,1665
+central-state-university,Central State University,1666
+ai-miami-international-university-of-art-and-design,AI Miami International University of Art and Design,1667
+northern-new-mexico-college,Northern New Mexico College,1668
+everest-university-tampa,Altierus Career College - Tampa,1669
+virginia-union-university,Virginia Union University,1670
+remington-college-honolulu-campus,Remington College - Honolulu Campus,1671
+southern-university-at-new-orleans,Southern University at New Orleans,1672
+rasmussen-college-florida,Rasmussen College - Florida,1673
+kaplan-university-lincoln-campus,Kaplan University - Lincoln Campus,1674
+granite-state-college,Granite State College,1675
+virginia-university-of-lynchburg,Virginia University of Lynchburg,1676
+gordon-state-college,Gordon State College,1677
+kaplan-university-davenport-campus,Kaplan University - Davenport Campus,1678
+akron-institute-of-herzing-university,Herzing University - Akron,1679
+trinity-baptist-college,Trinity Baptist College,1680
+national-american-university-overland-park,National American University - Overland Park,1681
+herzing-university-kenner,Herzing University - Kenner,1682
+miles-college,Miles College,1683
+livingstone-college,Livingstone College,1684
+central-christian-college-of-kansas,Central Christian College of Kansas,1685
+brewton-parker-college,Brewton - Parker College,1686
+kaplan-university-hagerstown-campus,Kaplan University - Hagerstown Campus,1687
+american-intercontinental-university-atlanta,American InterContinental University - Atlanta,1688
+lane-college,Lane College,1689
+hillsdale-free-will-baptist-college,Randall University,1690
+donnelly-college,Donnelly College,1691
+philander-smith-college,Philander Smith College,1692
+the-art-institute-of-austin,The Art Institute of Austin,1693
+national-american-university-austin,National American University - Austin,1694
+university-of-maine-at-augusta,University of Maine at Augusta,1695
+herzing-university-atlanta,Herzing University - Atlanta,1696
+stillman-college,Stillman College,1697
+the-art-institute-of-virginia-beach,The Art Institute of Virginia Beach,1698
+the-art-institute-of-san-antonio,The Art Institute of San Antonio,1699
+collegeamerica-phoenix,CollegeAmerica - Phoenix,1700
+martin-university,Martin University,1701
+shaw-university,Shaw University,1702
+kaplan-university-maine-campus,Kaplan University - Maine Campus,1703
+southwestern-christian-university,Southwestern Christian University,1704
+american-intercontinental-university-online,American InterContinental University - Online,1705
+baker-college-of-flint,Baker College,1706
+harrison-college-indianapolis,Harrison College - Indianapolis,1707
+wiley-college,Wiley College,1708
+independence-university,Independence University,1709
+edward-waters-college,Edward Waters College,1710
+jarvis-christian-college,Jarvis Christian College,1711
+the-art-institute-of-las-vegas,The Art Institute of Las Vegas,1712
+stevens-henager-college-boise,Stevens - Henager College,1713
+le-moyne-owen-college,Le Moyne - Owen College,1714
+salem-international-university,Salem International University,1715
+bacone-college,Bacone College,1716
+texas-college,Texas College,1717
+the-art-institute-of-atlanta,The Art Institute of Atlanta,1718
+paul-quinn-college,Paul Quinn College,1719
+harris-stowe-state-university,Harris - Stowe State University,1720
