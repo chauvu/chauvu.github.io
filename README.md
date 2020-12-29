@@ -3,6 +3,10 @@ This portfolio is a combination of notebooks I created for my data science proje
 
 ## Web Scraping
 
+**Scrape college rankings from CollegeFactual.com**
+
+Ranking list of American colleges was scraped from [College Factual](https://www.collegefactual.com/rankings/best-colleges/). Details about each college, such as academics, student diversity and tuition fees, are scraped as well. View and download the scraped college datasets from [here](https://github.com/chauvu/chauvu.github.io/tree/main/Data/college_factual). Script for web scraping is provided [here](https://github.com/chauvu/chauvu.github.io/blob/main/Notebooks/scrape_CollegeFactual.ipynb).
+
 ## Regression Analysis
 
 **Poverty Prediction with Census Data**
