@@ -27,6 +27,12 @@ This project utilizes the public UCI Machine Learning Dataset on Heart Disease. 
 
 This project uses the PubMed dataset previously-scraped from [here](https://github.com/chauvu/chauvu.github.io/tree/main/Data/pubmed). The text abstract for each manuscript is used to classify the manuscript into the top 7 topics (such as cancer, inflammation, depression, etc.). The script for this implementation of Naive Bayes is provided [here](https://github.com/chauvu/chauvu.github.io/blob/main/Notebooks/manuscripts_classification_naivebayes.ipynb).
 
+## Neural Network
+
+**PubMed Abstracts Text Generation**
+
+This project utilizes the previously-scraped PubMed dataset. A recurrent neural network, specifically an LSTM, receives a 100-character sequence input and outputs a following predicted sequence. [SCRIPT](https://github.com/chauvu/chauvu.github.io/blob/main/Notebooks/manuscripts_text_generation.ipynb) | [DATA](https://github.com/chauvu/chauvu.github.io/tree/main/Data/pubmed/abstracts_str.txt) | [WEIGHTS](https://github.com/chauvu/chauvu.github.io/tree/main/Data/pubmed/weights/)
+
 
 
 
