@@ -33,6 +33,9 @@ This project uses the PubMed dataset previously-scraped. The text abstract for e
 
 This project utilizes the previously-scraped PubMed dataset. A recurrent neural network, specifically an LSTM, receives a 100-character sequence input and outputs a following predicted sequence. [SCRIPT](https://github.com/chauvu/chauvu.github.io/blob/main/Notebooks/manuscripts_text_generation.ipynb) | [DATA](https://github.com/chauvu/chauvu.github.io/tree/main/Data/pubmed/abstracts_str.txt) | [WEIGHTS](https://github.com/chauvu/chauvu.github.io/tree/main/Data/pubmed/weights/)
 
+**MRI Image Orientation Classification**
+
+This project uses MRI T2-weighted image datasets acquired on 60 subjects. A convolutional neural network is trained to classify 2-dimensional images into three orientation categories: axial, sagittal and coronal. Due to HIPAA, the subject datasets are not made available publicly; an example dataset acquired on the author is available as illustration. [DATA](https://github.com/chauvu/chauvu.github.io/tree/main/Data/mri_t2/CV_T2.nii) | [SCRIPT](https://github.com/chauvu/chauvu.github.io/blob/main/Notebooks/mri_orientation_classification.ipynb) | [WEIGHTS](https://github.com/chauvu/chauvu.github.io/tree/main/Data/mri_t2/T2orientation_cnn2.hdf5)
 
 
 
