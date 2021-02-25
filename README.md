@@ -27,6 +27,12 @@ This project utilizes the public UCI Machine Learning Dataset on Heart Disease. 
 
 This project uses the PubMed dataset previously-scraped. The text abstract for each manuscript is used to classify the manuscript into the top 7 topics (such as cancer, inflammation, depression, etc.). [DATA](https://github.com/chauvu/chauvu.github.io/tree/main/Data/pubmed), [SCRIPT](https://github.com/chauvu/chauvu.github.io/blob/main/Notebooks/manuscripts_classification_naivebayes.ipynb)
 
+## Clustering
+
+**Clustering of U.S. Colleges**
+
+This project clusters 1600 colleges into different groups using unsupervised clustering algorithms; data was previously scraped from College Factual. Colleges were grouped into three distinct clusters: private national universities, state-funded 4-year colleges, major-specific colleges (including health sciences, maritime science, music and design). Clustering was performed using free-tiered AWS t2.micro, and Tableau was used for visualization. [SCRIPT](https://github.com/chauvu/chauvu.github.io/blob/main/Notebooks/colleges_clustering.ipynb)
+
 ## Neural Network
 
 **PubMed Abstracts Text Generation**
