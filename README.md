@@ -43,5 +43,9 @@ This project utilizes the previously-scraped PubMed dataset. A recurrent neural 
 
 This project uses MRI T2-weighted image datasets acquired on 60 subjects. A convolutional neural network is trained to classify 2-dimensional images into three orientation categories: axial, sagittal and coronal. Due to HIPAA, the subject datasets are not made available publicly; an example dataset acquired on the author is available as illustration. [DATA](https://github.com/chauvu/chauvu.github.io/tree/main/Data/mri_t2/CV_T2.nii), [SCRIPT](https://github.com/chauvu/chauvu.github.io/blob/main/Notebooks/mri_orientation_classification.ipynb)
 
+## R Code
 
+**Mental Health in Tech**
+
+This project uses the 2014 [OSMI](https://osmihelp.org/research) survey on Mental Health in the Tech industry [link](https://www.kaggle.com/osmi/mental-health-in-tech-survey). Instead of Python, this project uses **R** to clean and perform exploratory analysis on this dataset. [DATA](https://github.com/chauvu/chauvu.github.io/tree/main/Data/mental_tech/survey.csv), [SCRIPT](https://github.com/chauvu/chauvu.github.io/blob/main/Notebooks/mental_health_tech.md)
 
