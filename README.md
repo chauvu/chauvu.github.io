@@ -43,6 +43,12 @@ This project utilizes the previously-scraped PubMed dataset. A recurrent neural 
 
 This project uses MRI T2-weighted image datasets acquired on 60 subjects. A convolutional neural network is trained to classify 2-dimensional images into three orientation categories: axial, sagittal and coronal. Due to HIPAA, the subject datasets are not made available publicly; an example dataset acquired on the author is available as illustration. [DATA](https://github.com/chauvu/chauvu.github.io/tree/main/Data/mri_t2/CV_T2.nii), [SCRIPT](https://github.com/chauvu/chauvu.github.io/blob/main/Notebooks/mri_orientation_classification.ipynb)
 
+## Data Visualization
+
+**College Factual Data Viz**
+
+This project uses the CollegeFactual dataset and visualizes using Plotly package in Python. Dash package is used to create an interactive dashboard from this dataset. Note that somehow the .png and .gif images are NOT displaying correctly; I am working to fix this. The images can be viewed outside of Jupyter Notebook in the Data folder. [DATA](https://github.com/chauvu/chauvu.github.io/tree/main/Data/college_factual/dashboard_png), [SCRIPT](https://github.com/chauvu/chauvu.github.io/blob/main/Notebooks/colleges_dashboard.ipynb)
+
 ## R Code
 
 **Mental Health in Tech**
