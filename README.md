@@ -1,5 +1,5 @@
 # Data science portfolio by Chau Vu
-This portfolio is a combination of notebooks I created for my data science projects.
+This portfolio is a combination of notebooks I have created for my data science projects.
 
 ## Web Scraping
 
