@@ -43,6 +43,10 @@ This project utilizes the previously-scraped PubMed dataset. A recurrent neural 
 
 This project uses MRI T2-weighted image datasets acquired on 60 subjects. A convolutional neural network is trained to classify 2-dimensional images into three orientation categories: axial, sagittal and coronal. Due to HIPAA, the subject datasets are not made available publicly; an example dataset acquired on the author is available as illustration. [DATA](https://github.com/chauvu/chauvu.github.io/tree/main/Data/mri_t2/CV_T2.nii), [SCRIPT](https://github.com/chauvu/chauvu.github.io/blob/main/Notebooks/mri_orientation_classification.ipynb)
 
+**Sentence Paraphraser**
+
+This project uses BART transformer from the simpletransformers library to paraphrase sentences. The BART model was downloaded from huggingface.co and retrained using the training dataset. The paraphraser was tested on the test dataset and will be used for another downstream task in the future. [DATA](https://github.com/chauvu/chauvu.github.io/tree/main/Data/paraphrase), [SCRIPT](https://github.com/chauvu/chauvu.github.io/blob/main/Notebooks/sentence_paraphrase.ipynb)
+
 ## Data Visualization
 
 **College Factual Data Viz**
