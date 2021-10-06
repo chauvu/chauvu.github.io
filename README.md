@@ -19,7 +19,7 @@ This project utilizes data from the aggregate Census and Behavioral Risk Factor 
 
 **MRI Oximetry Calibration with Bootstrapping**
 
-This project utilizes the MRI T2 oximetry data from [this paper](https://pubmed.ncbi.nlm.nih.gov/33719133/). MRI data was acquired on 16 subjects. Linear regression was performed between the `A` and `B` coefficients with hematocrit to determine the oximetry calibration model for sickle cell disease subjects. Bootstrapping (regular and non-parametric) was performed to determine the standard errors and confidence intervals for the linear model coefficients.
+This project utilizes the MRI T2 oximetry data from [this paper](https://pubmed.ncbi.nlm.nih.gov/33719133/). MRI data was acquired on 16 subjects. Linear regression was performed between the `A` and `B` coefficients with hematocrit to determine the oximetry calibration model for sickle cell disease subjects. Bootstrapping (regular and non-parametric) was performed to determine the standard errors and confidence intervals for the linear model coefficients. [ANALYSIS](https://github.com/chauvu/chauvu.github.io/blob/main/Notebooks/calibration_bootstrap.ipynb)
 
 ## Classification Analysis
 
