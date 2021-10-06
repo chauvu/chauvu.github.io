@@ -17,6 +17,10 @@ Biomedical and life sciences references are scraped from [PubMed](https://pubmed
 
 This project utilizes data from the aggregate Census and Behavioral Risk Factor data from different counties in the United States from 2003-2018. A total of 9 datasets were downloaded from federal government websites and combined into a single dataset for analysis. [DATA](https://github.com/chauvu/chauvu.github.io/tree/main/Data/census), [CLEANING](https://github.com/chauvu/chauvu.github.io/blob/main/Notebooks/census_data_cleaning.ipynb), [ANALYSIS](https://github.com/chauvu/chauvu.github.io/blob/main/Notebooks/census_regression.ipynb)
 
+**MRI Oximetry Calibration with Bootstrapping**
+
+This project utilizes the MRI T2 oximetry data from [this paper](https://pubmed.ncbi.nlm.nih.gov/33719133/). MRI data was acquired on 16 subjects. Linear regression was performed between the `A` and `B` coefficients with hematocrit to determine the oximetry calibration model for sickle cell disease subjects. Bootstrapping (regular and non-parametric) was performed to determine the standard errors and confidence intervals for the linear model coefficients.
+
 ## Classification Analysis
 
 **Classification of Heart Disease**
