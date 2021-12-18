@@ -47,9 +47,9 @@ This project uses MRI T2-weighted image datasets acquired on 60 subjects. A conv
 
 This project uses MRI T2-weighted images and Faster Region-based CNN using IceVision library to identify bounding boxes of white matter lesions in the brain. Downstream application includes choosing a seed within these bounding boxes as input into a seed-based segmentation technique to generate masks for each lesion. Training data is not available publicly. [DATA](https://github.com/chauvu/chauvu.github.io/tree/main/Data/lesions/), [SCRIPT](https://github.com/chauvu/chauvu.github.io/blob/main/Notebooks/lesions_bbox.ipynb)
 
-**Knowledge Graph Node Classification**
+**Knowledge Graph Node Classification and Link Prediction**
 
-This project aims to perform node classification and link prediction on a biomedical knowledge graph, containing relations between different types of entities, such as drugs and diseases. This work focuses on the Hetionet knowledge graph and performs node classification using Graph Convolutional Network (GCN) through the Deep Graph Library (DGL). [SCRIPT](https://github.com/chauvu/chauvu.github.io/blob/main/Notebooks/graph_node_classification.ipynb) 
+This project aims to perform node classification and link prediction on a biomedical knowledge graph, containing relations between different types of entities, such as drugs and diseases. This work focuses on the Hetionet knowledge graph and performs node classification using Graph Convolutional Network (GCN) through the Deep Graph Library (DGL). Link prediction is also performed using GCN, in which low-dimensional embedding representations for each node are generated and an edge is scored by the dot product of the two nodes' embeddings. [NODE SCRIPT](https://github.com/chauvu/chauvu.github.io/blob/main/Notebooks/graph_node_classification.ipynb), [LINK SCRIPT](https://github.com/chauvu/chauvu.github.io/blob/main/Notebooks/graph_link_prediction.ipynb)
 
 **PubMed Abstracts Text Generation**
 
