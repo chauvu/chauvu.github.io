@@ -53,7 +53,7 @@ This project aims to perform node classification and link prediction on a biomed
 
 **PubMed Abstracts Text Generation**
 
-This project utilizes the previously-scraped PubMed dataset. A recurrent neural network, specifically an LSTM, receives a 100-character sequence input and outputs a following predicted sequence. [SCRIPT](https://github.com/chauvu/chauvu.github.io/blob/main/Notebooks/manuscripts_text_generation.ipynb), [DATA](https://github.com/chauvu/chauvu.github.io/tree/main/Data/pubmed/abstracts_str.txt), [WEIGHTS](https://github.com/chauvu/chauvu.github.io/tree/main/Data/pubmed/weights/)
+This project utilizes the previously-scraped PubMed dataset. A character-level recurrent neural network, specifically an LSTM, receives a 100-character sequence input and outputs a following predicted sequence. The subsequent portion of this project explores word-level text generation, in which the LSTM receives 100-word sequence and predicts the next word. This implementation also includes an additional *attention* component as well as *beam search* for improving predictions. [SCRIPT CHARACTER-LEVEL](https://github.com/chauvu/chauvu.github.io/blob/main/Notebooks/manuscripts_text_generation.ipynb), [SCRIPT WORD-LEVEL](https://github.com/chauvu/chauvu.github.io/blob/main/Notebooks/manuscripts_text_generation_word.ipynb), [DATA](https://github.com/chauvu/chauvu.github.io/tree/main/Data/pubmed/abstracts_str.txt), [WEIGHTS](https://github.com/chauvu/chauvu.github.io/tree/main/Data/pubmed/weights/)
 
 **Sentence Paraphraser**
 
@@ -61,7 +61,7 @@ This project uses BART transformer from the simpletransformers library to paraph
 
 ## Data Visualization
 
-**College Factual Data Viz**
+**College Factual Data Visualization**
 
 This project uses the CollegeFactual dataset and visualizes using Plotly package in Python. Dash package is used to create an interactive dashboard from this dataset. Note that somehow the .png and .gif images are NOT displaying correctly; I am working to fix this. The images can be viewed outside of Jupyter Notebook in the Data folder. [DATA](https://github.com/chauvu/chauvu.github.io/tree/main/Data/college_factual/dashboard_png), [SCRIPT](https://github.com/chauvu/chauvu.github.io/blob/main/Notebooks/colleges_dashboard.ipynb)
 
