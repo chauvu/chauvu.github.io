@@ -15,7 +15,7 @@ Biomedical and life sciences references are scraped from [PubMed](https://pubmed
 
 **Poverty Prediction with Census Data**
 
-This project utilizes data from the aggregate Census and Behavioral Risk Factor data from different counties in the United States from 2003-2018. A total of 9 datasets were downloaded from federal government websites and combined into a single dataset for analysis. [DATA](https://github.com/chauvu/chauvu.github.io/tree/main/Data/census), [CLEANING](https://github.com/chauvu/chauvu.github.io/blob/main/Notebooks/census_data_cleaning.ipynb), [ANALYSIS](https://github.com/chauvu/chauvu.github.io/blob/main/Notebooks/census_regression.ipynb)
+This project utilizes data from the aggregate Census and Behavioral Risk Factor data from different counties in the United States from 2003-2018. A total of 9 datasets were downloaded from federal government websites and combined into a single dataset for analysis. The original analysis is performed using pandas and sklearn libraries, and subsequent work demonstrates similar performance using distributed analysis with PySpark. [DATA](https://github.com/chauvu/chauvu.github.io/tree/main/Data/census), [CLEANING](https://github.com/chauvu/chauvu.github.io/blob/main/Notebooks/census_data_cleaning.ipynb), [ANALYSIS](https://github.com/chauvu/chauvu.github.io/blob/main/Notebooks/census_regression.ipynb), [ANALYSIS PYSPARK](https://github.com/chauvu/chauvu.github.io/blob/main/Notebooks/census_regression_pyspark.ipynb)
 
 **MRI Oximetry Calibration with Bootstrapping**
 
